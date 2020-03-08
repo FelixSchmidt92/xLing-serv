@@ -1,2 +1,2 @@
-# xLing-serv
+# xLingQG-serv
 Cross lingual question generation server
