@@ -9,9 +9,11 @@ import fairseq.models.transformer
 
 class OnmtModelConfig(object):
 
-    def __init__(self, beam_size, path):
+    def __init__(self, beam_size, path, replace_unknown, batch_size):
         self.path = path
         self.beam_size = beam_size
+        self.replace_unknown = replace_unknown
+        self.batch_size = batch_size
 
 
 class FairseqModelConfig(object):
@@ -45,8 +47,10 @@ class ConfigParser(object):
     def _parse_onmt_model_config(self, model_config_opts, model_root_dir):
         model_beam_size = model_config_opts['beam_size']
         model_path = os.path.join(model_root_dir,  model_config_opts['model'])
+        batch_size = model_config_opts['batch_size']
+        replace_unknown = model_config_opts['replace_unknown']
         model_config = OnmtModelConfig(
-            beam_size=model_beam_size, path=model_path)
+            beam_size=model_beam_size, path=model_path, replace_unknown=replace_unknown, batch_size=batch_size)
         return model_config
 
     def _parse_fairseq_model_config(self, model_config_opts, model_root_dir):
@@ -55,6 +59,7 @@ class ConfigParser(object):
         data_path = model_config_opts['path_to_data']
         bpe = model_config_opts['bpe']
         bpe_codes = model_config_opts['bpe_codes']
+    
 
         model_config = FairseqModelConfig(beam_size=model_beam_size, path=model_root_dir, checkpoint_filepath=checkpoint_filepath,
                                           bpe=bpe, bpe_codes=bpe_codes, path_to_data=data_path)
@@ -90,6 +95,9 @@ class OnmtModelBuilder(object):
         args.append(str(model_config.beam_size))
         args.append('-src')
         args.append('dummy_src')
+        if model_config.replace_unknown: args.append('--replace_unk') 
+        args.append('-phrase_table')
+        args.append('./models/phrase_table.txt')
         model_args = parser.parse_args(args)
         return model_args
 
@@ -104,9 +112,20 @@ def main():
     config_parser = ConfigParser()
     config_parser.read_config(path_to_config_file)
 
+    model_builder = OnmtModelBuilder()
+    onmt_model = model_builder.build_model(
+        config_parser.question_generation_config)
+    translations = onmt_model.translate(
+        src=[u'Roger￨1 Federer￨1 was￨0 born￨0 <unk>￨0 in￨0 Switzerland￨0'],
+        src_dir=None,
+        batch_size = 30
+    )
+    test = translations[1]
+    print(test)
+
     fairseq_builder = FairseqModelBuilder()
     fairseq_model = fairseq_builder.build_model(config_parser.translation_config)
-    input = fairseq_model.encode('This is a test.')
+    input = fairseq_model.encode(test[0][0])
     args = {'print_alignment':True,
             'tokenizer':'moses'}
     hypos = fairseq_model.generate(input, beam=5, verbose=False,**args)
@@ -114,20 +133,6 @@ def main():
         translation = fairseq_model.decode(hypo['tokens'])
         print(translation)
         print(hypo['alignment'])
-
-    model_builder = OnmtModelBuilder()
-    onmt_model = model_builder.build_model(
-        config_parser.question_generation_config)
-    translations = onmt_model.translate(
-        src=[u'This￨0 phenomenon￨0 is￨0 called￨0 color￨1 confinement￨1 .￨0'],
-        batch_size=30,
-        src_dir=None
-    )
-    test = translations[1]
-
-
-
-
 
 if __name__ == '__main__':
     main()
