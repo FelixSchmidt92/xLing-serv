@@ -1,2 +1,2 @@
 from xlingqg_server.model_loading import ConfigParser,FairseqModelBuilder,OnmtModelBuilder,OnmtModelConfig,FairseqModelConfig
-from xlingqg_server.translation import bpe_ranges
+from xlingqg_server.question_generation import determine_word_to_subword_ranges,determine_subword_to_word,subword_align_to_word_align
