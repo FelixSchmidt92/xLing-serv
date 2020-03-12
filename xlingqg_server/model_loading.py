@@ -3,7 +3,6 @@ import onmt.utils.parse as parse
 import onmt.opts
 import json
 import os.path
-import codecs
 import fairseq.models.transformer
 
 
@@ -68,12 +67,14 @@ class ConfigParser(object):
 
 class FairseqModelBuilder(object):
     def build_model(self, model_config):
+        args = {'tokenizer':'moses'}
         model = fairseq.models.transformer.TransformerModel.from_pretrained(
             model_name_or_path=model_config.path,
             checkpoint_file=model_config.checkpoint_filepath,
             data_name_or_path=model_config.path_to_data,
             bpe=model_config.bpe,
-            bpe_codes=model_config.bpe_codes
+            bpe_codes=model_config.bpe_codes,
+            **args
         )
         return model
 
@@ -95,9 +96,9 @@ class OnmtModelBuilder(object):
         args.append(str(model_config.beam_size))
         args.append('-src')
         args.append('dummy_src')
+        args.append('--block_ngram_repeat')
+        args.append('2')
         if model_config.replace_unknown: args.append('--replace_unk') 
-        args.append('-phrase_table')
-        args.append('./models/phrase_table.txt')
         model_args = parser.parse_args(args)
         return model_args
 
@@ -105,34 +106,3 @@ class OnmtModelBuilder(object):
         parser = parse.ArgumentParser(description='translate.py')
         onmt.opts.translate_opts(parser)
         return parser
-
-
-def main():
-    path_to_config_file = './models/config.json'
-    config_parser = ConfigParser()
-    config_parser.read_config(path_to_config_file)
-
-    model_builder = OnmtModelBuilder()
-    onmt_model = model_builder.build_model(
-        config_parser.question_generation_config)
-    translations = onmt_model.translate(
-        src=[u'Roger￨1 Federer￨1 was￨0 born￨0 <unk>￨0 in￨0 Switzerland￨0'],
-        src_dir=None,
-        batch_size = 30
-    )
-    test = translations[1]
-    print(test)
-
-    fairseq_builder = FairseqModelBuilder()
-    fairseq_model = fairseq_builder.build_model(config_parser.translation_config)
-    input = fairseq_model.encode(test[0][0])
-    args = {'print_alignment':True,
-            'tokenizer':'moses'}
-    hypos = fairseq_model.generate(input, beam=5, verbose=False,**args)
-    for hypo in hypos:
-        translation = fairseq_model.decode(hypo['tokens'])
-        print(translation)
-        print(hypo['alignment'])
-
-if __name__ == '__main__':
-    main()

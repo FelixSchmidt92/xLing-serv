@@ -1,4 +1,14 @@
 __pycache__/
 venv/
+
 models/
 pred.txt
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+
