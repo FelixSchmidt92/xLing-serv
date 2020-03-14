@@ -1,7 +1,6 @@
 import onmt.translate.translator
 import xlingqg.model_loading
 
-
 class QuestionGenerator():
     def __init__(self):
         config_parser = xlingqg.ConfigParser()
@@ -9,7 +8,7 @@ class QuestionGenerator():
         model_builder = xlingqg.OnmtModelBuilder()  
 
         self.model_config = config_parser.question_generation_config
-        self.onmt_model = model_builder.build_model(self.model_config)      
+        self.onmt_model = model_builder.build_model(self.model_config) 
 
     """Generates a question for the source_sentence
     

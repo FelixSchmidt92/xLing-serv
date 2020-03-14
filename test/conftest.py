@@ -9,3 +9,8 @@ def translator():
 def question_generator():
     import xlingqg.question_generation
     return xlingqg.question_generation.QuestionGenerator()    
+
+@pytest.fixture
+def cross_lingual_qg():
+    import xlingqg.cross_lingual_qg
+    return xlingqg.cross_lingual_qg.CrossLingualQuestionGenerator()
