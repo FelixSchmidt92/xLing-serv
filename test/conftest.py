@@ -2,10 +2,10 @@ import pytest
 
 @pytest.fixture
 def translator():
-    import xlingqg_server.translation
-    return xlingqg_server.translation.Translator()
+    import xlingqg.translation
+    return xlingqg.translation.Translator()
 
 @pytest.fixture
 def question_generator():
-    import xlingqg_server.question_generation
-    return xlingqg_server.question_generation.QuestionGenerator()    
+    import xlingqg.question_generation
+    return xlingqg.question_generation.QuestionGenerator()    

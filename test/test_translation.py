@@ -1,4 +1,4 @@
-import xlingqg_server.translation
+import xlingqg.translation
 import pytest 
 
 def test_translate(translator):

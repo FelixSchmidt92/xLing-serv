@@ -1,5 +1,5 @@
-import xlingqg_server.question_generation
-import xlingqg_server.model_loading
+import xlingqg.question_generation
+import xlingqg.model_loading
 import pytest
 
 

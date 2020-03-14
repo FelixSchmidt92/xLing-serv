@@ -1,13 +1,13 @@
 import fairseq.models.transformer
-import xlingqg_server.model_loading
+import xlingqg.model_loading
 import re
 
 
 class Translator():
     def __init__(self):
-        config_parser = xlingqg_server.ConfigParser()
-        config_parser.read_config(xlingqg_server.PATH_TO_CONFIG)  
-        model_builder = xlingqg_server.FairseqModelBuilder()  
+        config_parser = xlingqg.ConfigParser()
+        config_parser.read_config(xlingqg.PATH_TO_CONFIG)  
+        model_builder = xlingqg.FairseqModelBuilder()  
 
         self.model_config = config_parser.translation_config
         self.translator = model_builder.build_model(self.model_config)      

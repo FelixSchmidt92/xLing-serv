@@ -1,15 +1,15 @@
-import xlingqg_server
+import xlingqg
 
 def main():
     path_to_config_file = './models/config.json'
-    config_parser = xlingqg_server.ConfigParser()
+    config_parser = xlingqg.ConfigParser()
     config_parser.read_config(path_to_config_file)
 
-    model_builder = xlingqg_server.OnmtModelBuilder()
+    model_builder = xlingqg.OnmtModelBuilder()
     onmt_model = model_builder.build_model(
         config_parser.question_generation_config)
 
-    fairseq_builder = xlingqg_server.FairseqModelBuilder()
+    fairseq_builder = xlingqg.FairseqModelBuilder()
     fairseq_model = fairseq_builder.build_model(config_parser.translation_config)
 
     translations = onmt_model.translate(

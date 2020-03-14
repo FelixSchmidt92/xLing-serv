@@ -1,12 +1,12 @@
 import onmt.translate.translator
-import xlingqg_server.model_loading
+import xlingqg.model_loading
 
 
 class QuestionGenerator():
     def __init__(self):
-        config_parser = xlingqg_server.ConfigParser()
-        config_parser.read_config(xlingqg_server.PATH_TO_CONFIG)  
-        model_builder = xlingqg_server.OnmtModelBuilder()  
+        config_parser = xlingqg.ConfigParser()
+        config_parser.read_config(xlingqg.PATH_TO_CONFIG)  
+        model_builder = xlingqg.OnmtModelBuilder()  
 
         self.model_config = config_parser.question_generation_config
         self.onmt_model = model_builder.build_model(self.model_config)      
