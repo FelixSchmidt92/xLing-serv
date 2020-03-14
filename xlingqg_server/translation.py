@@ -12,10 +12,10 @@ class Translator():
         self.model_config = config_parser.translation_config
         self.translator = model_builder.build_model(self.model_config)      
 
-    """Translates the source sentence
+    """Translates the source sentence with alignments
     
     Returns:
-        [string] -- the translation of the source sentence
+        string -- the translation of the sentence
     """
     def translate_sentence(self,source_sentece):
         input = self.translator.encode(source_sentece)
@@ -25,8 +25,15 @@ class Translator():
 
         return self.translator.decode(hypo['tokens'])  
 
-    def translate_sentence_with_alignemnts(self,source_sentece):
-        input = self.translator.encode(source_sentece)
+    """Translates the source sentence with word level alignments between source and
+    translation
+    
+    Returns:
+        [tupel] -- the translation of the source sentence, the word-level alignment
+        between source and translation, the source tokens and the translation tokens
+    """
+    def translate_sentence_with_alignemnts(self,source_sentence):
+        input = self.translator.encode(source_sentence)
         args = {'tokenizer':'moses',
             'print_alignment':True,}
         hypos = self.translator.generate(input, beam=5, verbose=False,**args)
@@ -39,7 +46,7 @@ class Translator():
         subword_alignments = hypo['alignment']
 
         word_alignments = subword_align_to_word_align(source_bpe_tokens, trans_bpe_tokens, subword_alignments)
-        return (translation, word_alignments)
+        return (translation, word_alignments, self.translator.tokenize(source_sentence).split(), self.translator.tokenize(translation).split())
 
 """ Creates a list of tuples containing the index of first subword token of the word
     and the index of the last subword token of the word
