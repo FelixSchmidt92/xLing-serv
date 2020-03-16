@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+venv
+pred.txt
+.git
+.pytest_cache
+models
+README.md

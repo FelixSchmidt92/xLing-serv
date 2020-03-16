@@ -5,7 +5,7 @@ import json
 import os.path
 import fairseq.models.transformer
 
-PATH_TO_CONFIG = './models/config.json'
+PATH_TO_CONFIG = './modelconfig/config.json'
 
 class OnmtModelConfig(object):
 
