@@ -16,4 +16,4 @@ WORKDIR ..
 EXPOSE 5003
 
 ENTRYPOINT ["python","app.py"]
-CMD ["--host", "0.0.0.0", "--port", "5003"]
+CMD ["--host", "0.0.0.0", "--port", "5000"]
