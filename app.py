@@ -13,8 +13,9 @@ def run(host, port):
         # Roger Federer was born 1986 in Switzerland.
         request_payload = request.get_json(force=True)
         source_sentence = request_payload['source']
-        question = qg.generate_cross_lingual_question(source_sentence, [5, 6])
-        answer = qg.generate_translated_answer(source_sentence, [5, 6])
+        answer_positions = request_payload['answerPositions']
+        question = qg.generate_cross_lingual_question(source_sentence, answer_positions)
+        answer = qg.generate_translated_answer(source_sentence, answer_positions)
         response = {"question": question,
                     "answer": ' '.join(dict['token'] for dict in answer)
                     }
