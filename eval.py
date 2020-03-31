@@ -17,7 +17,13 @@ def generate_questsions(sentence_list):
 
 def do_translations(sentence_list):
     translator = xlingqg.Translator()
-    translations = [translator.translate_sentence(sentence)for sentence in sentence_list]    
+    translations = []   
+    sentence_list = sentence_list
+    for sentence in tqdm(sentence_list): 
+        sentence_without_bpe = translator.translator.remove_bpe(sentence)
+        translation = translator.translate_sentence(sentence_without_bpe)
+        translations.append(translator.translator.tokenize(translation))   
+    return translations
 
 def evaluate(hypos, references):
     bleu =  sacrebleu.corpus_bleu(hypos,references)   
@@ -28,8 +34,8 @@ def load_file_lines(filepath):
         return f.read().splitlines()        
 
 def evaluate_translation(translate_src, translate_ref):
+    refs = [load_file_lines(translate_ref)]
     hypos = do_translations(load_file_lines(translate_src)) 
-    refs = load_file_lines(translate_ref)
     return evaluate(hypos,refs)    
 
 def evaluate_qg(qg_src, qg_ref):
@@ -42,14 +48,14 @@ def main(eval_qg, eval_translate, qg_src, qg_ref, translate_src,translate_ref):
     if eval_qg: 
         print("QG-Score: {}".format(evaluate_qg(qg_src,qg_ref).format()))
     if eval_translate:
-        print("Translate-Score: {}".format(evaluate_translation(translate_src,translate_ref).score))    
+        print("Translate-Score: {}".format(evaluate_translation(translate_src,translate_ref).format()))    
 
 def _get_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--qg", action="store_true",default=True)
-    parser.add_argument("--translate", action="store_true", default=False )
-    parser.add_argument("--translate_src", type=str, default="")
-    parser.add_argument("--translate_ref", type=str, default="")
+    parser.add_argument("--qg", action="store_true",default=False)
+    parser.add_argument("--translate", action="store_true", default=True )
+    parser.add_argument("--translate_src", type=str, default="./example_data/translate.test.en")
+    parser.add_argument("--translate_ref", type=str, default="./example_data/translate.test.de")
     parser.add_argument("--qg_src", type=str, default="./example_data/qg.test.sentence")
     parser.add_argument("--qg_ref", type=str, default="./example_data/qg.test.question")
     return parser
