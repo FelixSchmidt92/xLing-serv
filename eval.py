@@ -1,10 +1,18 @@
 import xlingqg
 import sacrebleu
 import argparse
+from sacremoses import MosesTokenizer, MosesDetokenizer
+from tqdm import tqdm
+
 
 def generate_questsions(sentence_list):
     qg= xlingqg.QuestionGenerator()
-    generated_questions = [qg.generate_question(sentence) for sentence in sentence_list]
+    detokenizer = MosesDetokenizer(lang='en')
+    generated_questions = []
+    for sentence in tqdm(sentence_list): 
+        question = qg.generate_question(sentence)
+        generated_questions.append(detokenizer.detokenize(question))      
+
     return generated_questions
 
 def do_translations(sentence_list):
@@ -12,11 +20,12 @@ def do_translations(sentence_list):
     translations = [translator.translate_sentence(sentence)for sentence in sentence_list]    
 
 def evaluate(hypos, references):
-    return sacrebleu.corpus_bleu(hypos,references)   
+    bleu =  sacrebleu.corpus_bleu(hypos,references)   
+    return bleu
 
 def load_file_lines(filepath):
     with open(filepath) as f:
-        return f.readlines()
+        return f.read().splitlines()        
 
 def evaluate_translation(translate_src, translate_ref):
     hypos = do_translations(load_file_lines(translate_src)) 
@@ -25,13 +34,13 @@ def evaluate_translation(translate_src, translate_ref):
 
 def evaluate_qg(qg_src, qg_ref):
     hypos = generate_questsions(load_file_lines(qg_src)) 
-    refs = load_file_lines(qg_ref)
+    refs = [ load_file_lines(qg_ref) ]
     return evaluate(hypos,refs)          
 
 
 def main(eval_qg, eval_translate, qg_src, qg_ref, translate_src,translate_ref):
     if eval_qg: 
-        print("QG-Score: {}".format(evaluate_qg(qg_src,qg_ref).score))
+        print("QG-Score: {}".format(evaluate_qg(qg_src,qg_ref).format()))
     if eval_translate:
         print("Translate-Score: {}".format(evaluate_translation(translate_src,translate_ref).score))    
 
