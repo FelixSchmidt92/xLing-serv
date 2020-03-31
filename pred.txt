@@ -1,5 +1,2191 @@
-Where was Roger Federer born ?
-Where was Roger Federer born ?
-Who was born 1986 in Switzerland ?
-Who was born 1986 in Switzerland ?
-Where was Roger Federer born ?
+In what country was Normandy located ?
+When did the Normans begin their name to Normandy ?
+From where did pirates originate ?
+What was the name of the leader that agreed fealty ?
+In what century did the Normans emerge ?
+Who led the Norman conquest of England ?
+What is another name for Normans ?
+In what century was the Normans recorded ?
+In what year did the Duchy of Normandy begin ?
+Who established the Duchy of Normandy ?
+Who was considered Frankish ?
+What religion was the Old Norse language ?
+From what part of France is Norman culture located ?
+What happened to the Norman knights ?
+Along with Armenia and Armenia , what group did the Normans conquer ?
+Where was the first Norman mercenaries located ?
+When was the Normans of Edessa against the Turks ?
+Who was the Byzantine general in Asia ?
+What is another name for Franks ?
+Who was a force of " Franks " ?
+Who did some Normans join ?
+Where were the Raoulii located ?
+When did the city 's garrison end ?
+How many men died in 300 ships ?
+What city was the Byzantines in ?
+Who was the command of the Normans ?
+Where was the citadel of Mili located ?
+In what year was the road to a third attack ?
+What is the most important naval bases of the Adriatic ?
+What area of Southampton was one of the most important naval bases ?
+What was the name of the King ?
+Who was the sister of Emma ?
+Where did Ethelred flee to ?
+Who was the kingdom of Napoleon ?
+Who was Edward 's half brother ?
+Where was Edward the father 's refuge ?
+Who was the archbishop of Canterbury ?
+In what battle did Duke Harold II invade England ?
+Who conquered King Harold II ?
+In what year did the Battle of Hastings take place ?
+What was the official name of the invading Normans ?
+What language did the modern language develop ?
+In what year did the Normans invade Bannow Bay ?
+Where did the Normans settle ?
+In what language did the Irish language become subsumed ?
+Who was the Conqueror ?
+Who married Edgar 's sister ?
+In what year did William invade Scotland ?
+Who was Malcolm 's son ?
+What did Alexander I marry ?
+What was Scotland 's nationality ?
+What was the name of the earl ?
+Who was the Confessor ?
+Who set up the aforementioned Ralph ?
+In what country was Norman interference located ?
+In what year did Roger de Tosny return to carve ?
+Who led the papal army ?
+In what year did the Siege of Antioch occur ?
+Who was the nephew of Italo - Normans ?
+In what city was Tancred instrumental ?
+How long did the Third Crusade last ?
+What dispersed the fleet ?
+Who was the fiancée of the boat ?
+In what year did Richard the Lion - hearted left Messina ?
+Who taken prisoner of the wrecks ?
+Who did Eisenhower support Guy against ?
+What metal was Isaac surrendered with ?
+Who led Napoleon 's troops ?
+Where did El Hierro move to ?
+Who was the title of King of the Canary Islands ?
+Who bought the rights to the islands ?
+Who sold the rights to the islands ?
+How many customaries were transcribed in Latin ?
+What type of idiom is the idiom ?
+Along with massive style , what type of arches were found in the style ?
+What is another name for Norman architecture ?
+What language is Norman architecture associated with ?
+Norman - Arab architecture is known as what ?
+When did a programme of church reform begin ?
+Who utilised the church ?
+When was the French Wars of Religion ?
+What is the Bayeux Tapestry a work of ?
+What is the most famous work of Norman art ?
+Who commissioned the Bishop of Bayeux ?
+What is another name for Norman Italy ?
+In what century was Normandy the site ?
+Who was the system of denoting notes ?
+Where did Saint - Evroul flee to ?
+Where was the Latin monastery located ?
+Who patronised the Latin monastery ?
+What is the name of the tradition that continued to spread ?
+What is a branch of the theory of computation ?
+What is the theory of computational problems ?
+What type of problem is understood to be solved ?
+What is a problem regarded as ?
+What is the theory of computation ?
+What is the amount of resources needed to solve ?
+What type of gates are used in a circuit ?
+What is the roles of computational complexity theory ?
+What is the theoretical purpose of related fields ?
+What is the input string for ?
+What kind of question is a problem to be solved ?
+What is a particular input to the problem ?
+What is the output corresponding to ?
+What is the quantitative answer for Milan ?
+complexity theory is what ?
+What is a string over computational problems ?
+What is the alphabet taken to ?
+What is another name for the alphabet ?
+integers can be represented in what notation ?
+How can integers be encoded in binary notation ?
+What problems are one of the central objects of study theory ?
+What is a special type of computational problem ?
+What is a special type of computational problem ?
+What is an example of a language output ?
+What is the answer to accept the input string ?
+What type of graph is the input ?
+What is the set of all graphs ?
+What is the formal definition of this language ?
+What is a function problem ?
+A computational problem is expected for what type of output ?
+What is a computational problem ?
+What is another name for the problem ?
+What is a single output of a decision ?
+How can problems be recast ?
+What is the multiplication of two integers ?
+What is the best algorithm requires to solve ?
+What is the space required to solve ?
+What is the space required to solve ?
+What is the size of the input called ?
+What is the increase of algorithms scale ?
+What can be expressed as a function of n. ?
+What is the maximum time taken over ?
+What is the maximum time taken over ?
+What is the algorithm said to be ?
+What is a mathematical model of a general computing machine ?
+What is the problem called ?
+What is the most commonly used model in complexity theory ?
+What is the theoretical device called ?
+What is the most basic Turing machine ?
+What is a deterministic machine ?
+What is a deterministic machine ?
+What are random bits called ?
+Turing machines are used to define what ?
+What is another term for resources ?
+What type of machines are used to define complexity classes ?
+What type of machines have machine models been proposed ?
+What type of power can be converted to another ?
+What type of consumption can be used to vary ?
+What do some models have in common ?
+What is the computational model called ?
+some problems are easier to analyze what ?
+What is an example of a mathematical models ?
+What is a important resource for computational problems ?
+What is the machine machine M on input x x ?
+complexity theory is interested on what ?
+What type of resources are the most popular ?
+What type of resource can any complexity measure ?
+What is another term for Complexity ?
+What type of measures is used in complexity theory ?
+What type of complexity is tree ?
+What refer to three different ways ?
+What type of measure is the time complexity ?
+What is the best case complexity ?
+What is the best case of the time complexity ?
+What is the name of the sorting system ?
+What is the input case called ?
+What is the algorithm takes time called ?
+What is the minimum amount of time upper time ?
+What is the algorithm algorithm falls under ?
+What is much difficult more difficult to solve ?
+What type of bound does show show ?
+What phrase is used in the future ?
+Upper and lower bounds are stated using what ?
+What is the big O notation ?
+What is another name for big O notation ?
+What is the bounds independent independent of ?
+What type of classes have complicated definitions ?
+What do some complexity classes fit into ?
+What do some complexity classes have ?
+What is the yields complexity classes depend on ?
+How many time can a binary machine be solved ?
+What is the model of Turing 's Turing machines ?
+What states that allow polynomial variations ?
+What type of space can be used by bounding ?
+What is the time or space classes defined by ?
+What can be defined by bounding ?
+What are some important complexity classes ?
+What are AC and NC defined as ?
+What type of Turing machines are used for Turing and QMA ?
+What is another name for quantum Turing machines ?
+How many proof systems are there ?
+What is the answer for time and space requirements ?
+What are the hierarchy theorems induce ?
+What is the basis for most separation results ?
+The time hierarchy theorem is contained in what ?
+When is the space hierarchy contained ?
+Most complexity classes are defined using what ?
+What is a reduction of one problem into ?
+What is an example of a algorithm ?
+What is an example of a algorithm ?
+What is the most common reduction for reduction ?
+What is the problem of squaring 's integer ?
+What is the reduction process called ?
+squaring can be reduced to what ?
+What is the notion of hard problems ?
+What is a problem for a class ?
+What is a algorithm for X ?
+What is another name for NP ?
+What type of problems is the most difficult problems in NP ?
+Who is the ones most likely likely to be the ?
+What is the complexity class called ?
+What is the hypothesis called ?
+What is the complexity class called ?
+What is the Hamiltonian path problem called ?
+What type of machines are special deterministic machines ?
+What type of prediction is used in biology ?
+How much money does each cost for the problem ?
+Who shown P ≠ NP ?
+What type of problems are there ?
+What is the computational problem of two finite graphs ?
+What is the problem that is not known as a problem ?
+What happens to the second level ?
+Where does the polynomial time hierarchy occur ?
+What is the computational problem of a given integer ?
+What is another name for several cryptographic systems ?
+What is the best known algorithm for integer factorization ?
+What is different about the complexity classes ?
+What is P = PSPACE ?
+What type of complexity do most complexity classes have ?
+What is a major breakthrough in complexity theory ?
+What is the class problems called ?
+What is an example of a complement problems ?
+What is the set of all problems called ?
+What type of classes does L Again have ?
+What is another name for the two complexity classes ?
+What type of problems are solved in theory ?
+What is unusable in practice ?
+What has been shown to be in P ?
+How long is the NP - complete problem ?
+What happened to the complexity of algorithmic problems ?
+What is the definition of most influential machines ?
+When was the definition of Turing machines ?
+What is the definition of Turing machines ?
+What was the seminal paper ?
+Who is the seminal paper of time ?
+In what year was Richard Stearns born ?
+What is the definitions of the hierarchy theorems ?
+In what year did Edmonds defined a " good " algorithm ?
+Who wrote the definition of linear bounded automata ?
+What is the name of the study of rudimentary sets ?
+What is the paper on real - time computations called ?
+What is the concrete choice of complexity ?
+What tries to keep the discussion ?
+Who developed an axiomatic complexity theory ?
+What did Manuel Blum introduce ?
+What is another name for Southern California ?
+How many counties does California have ?
+What type of center is Southern California ?
+What ties does the region have ?
+What is the 10-county definition used for ?
+What is the 8- and 10-county definitions used for ?
+How many megaregions of the United States are there ?
+Where is the megaregion located ?
+What border is the border of Tijuana ?
+Where is the megaregion located ?
+What coast is Southern California ?
+How many metropolitan areas does Southern California have ?
+How many people live in the Los Angeles area ?
+What is the largest city in NYC ?
+How many people live in the Greater Los Angeles Area ?
+What is the Colorado Desert river ?
+What is the east of Mexico City ?
+What is the border of Nevada ?
+What is the south of Mexico City ?
+How many major cities are in San Diego ?
+What is Los Angeles 's population ?
+What city is San Diego located in ?
+What is the second largest city in the state ?
+Where is San Diego located ?
+What is the largest counties in the US ?
+How many states are in Riverside ?
+What is the most populous counties in Tennessee ?
+What is a name for the motion industry ?
+In what city is Hollywood located ?
+What is another name for ABC ?
+What kind of companies does Sony have ?
+What company run major record companies in Universal ?
+What type of culture is Southern California ?
+Who is the Professional skateboarder ?
+What was the name of the snowboarder live in southern California ?
+What is the island of famous surf breaks ?
+What is the annual Transpacific Yacht Race ?
+What is the name of the desert city ?
+What is the southern California coast called ?
+What geographic part of California is home to locals ?
+What is the resort of Palm Springs ?
+How high is the California 's north point ?
+How many miles is the latitude of San Jose ?
+What is another name for the northern boundary ?
+What type of boundary is the Tehachapi Mountains ?
+In what country was California ruled ?
+In what state is Los Angeles located ?
+What is the Californios ?
+What was the cause of California 's Union ?
+What type of state was California 's Union ?
+What type of taxes did Californios have ?
+What was the population of southern California ?
+How many times did Californios attempted to achieve a separate statehood ?
+What percentage of voters were approved by Colorado ?
+Who was the advocate of Washington University ?
+What newspaper defined the southern counties in 1900 ?
+In what year was the Los Angeles Times defined ?
+In what year did the Times announce a newer county - county county ?
+In what year did the Times announce a newer county - county county ?
+How many counties are in the Los Angeles Times ?
+What is the California State Automobile Association ?
+What is the two AAA Auto Clubs ?
+What is the geographical phrase for the southern region ?
+How many people live in the US ?
+What type of areas have been left undeveloped ?
+What is the large spread of southern California ?
+What is another name for southern California ?
+What type of metropolitan region is Tijuana ?
+What is the main gap for urbanization ?
+What is the San Bernardino area called ?
+What county is L.A. a part of ?
+In what decade was San Bernardino developed ?
+What type of climate does Southern California contain ?
+What type of rain is Southern California ?
+How many temperature are in the summers ?
+Is snow more or in the Southwest ?
+How many 50 - 60 's temperature does winters have ?
+What type of ecosystem is Southern California ?
+Where is the region located ?
+What is another name for Southern California ?
+What is another name for the region ?
+What type of valleys does the region have ?
+How many earthquakes does the California area have ?
+How many people are not felt ?
+What was the magnitude of the earthquake ?
+What did the earthquake cause ?
+What was the property of the earthquake ?
+What is the name of the earthquake ?
+What is the magnitude of the earthquake ?
+What is the California Earthquake forecast ?
+What is the California Earthquake forecast ?
+What type of regions is Southern California ?
+What type of recognition is Southern California ?
+What is the hub of Southern California ?
+In what year did 22,680,010 become a population of 22,680,010 ?
+What was the reputation of southern California ?
+What was the state rate in the 2000s ?
+What type of economy is California 's growth ?
+What part of the United Kingdom is California 's growth in ?
+What is the international metropolitan area ?
+How many extended metropolitan metropolitan areas are there ?
+How many extended metropolitan areas does the region have ?
+What is another name for San Diego - Carlsbad - San Marcos ?
+Where is the Greater Los Angeles Area located ?
+What city is San Diego in ?
+What is the largest cities in California ?
+How many cities are in southern California ?
+How many cities are in southern California ?
+What is the most popular city in San Bernardino ?
+What is the largest abundance of transport ?
+What is the name of Southern California 's film ?
+Where was the region a leader ?
+What has happened to the housing crash ?
+In what decade did motion pictures become major industries ?
+In what type of agricultural regions were turned into suburbs ?
+Along with citrus and citrus , what is a notable agricultural regions in the US ?
+What is the major industries in the US ?
+What continues to be a major factor ?
+What type of districts is Southern California ?
+What districts is Downtown San Diego ?
+What is another name for Downtown Riverside ?
+What type of business is the Los Angeles Area ?
+What type of business is the Los Angeles Area ?
+Where is Warner Center located ?
+What city is Downtown located in ?
+How many districts does the San Bernardino - Riverside have ?
+What county is Downtown Santa Ana ?
+Where is Orange County located ?
+Where is the Irvine Tech Center located ?
+What is another name for Orange County ?
+What type of business is Orange County ?
+What is the central business district of San Diego ?
+Where are most districts located ?
+Along with Northern San Diego and some of the districts , where are most districts located ?
+What city is the central business district of San Diego ?
+Where is Southern California located ?
+What is the second busiest airport in the US ?
+What is the largest airport ?
+What is the busiest airport in the world ?
+What is the world 's busiest general airport ?
+What is the commuter rail system called ?
+How many lines are in the commuter rail system ?
+How many lines of commuter rail system are there ?
+How many counties does San Diego have ?
+Where is Southern California located ?
+What is the second busiest container port ?
+Where is the Port of Los Angeles located ?
+What is the name of the moniker that has use use ?
+What type of university is Tech Coast ?
+The California Institute of Technology is what type of institutions ?
+How many University of California are in California ?
+How many California State University campuses are in California ?
+What is another name for the Professional Angeles Rams ?
+What is another name for Los Angeles ?
+What is another name for Los Angeles Dodgers ?
+What is another name for Anaheim Ducks ?
+What is another name for MLS ?
+How many people were suspended following the 2014 MLS season ?
+How many Major League Soccer teams were in Los Angeles ?
+In what year were Chivas suspended ?
+Where was the LA Galaxy team played ?
+When did the second MLS team begin ?
+What is the name of the college that is popular in southern California ?
+In what county is the Bruins located ?
+Who is the UCLA Bruins team in ?
+Where is the USC Trojans located ?
+Where is the UCLA Bruins team located ?
+What is the growing sport in southern California ?
+Where is Rugby located ?
+What is another name for rugby ?
+What company became the UK 's largest digital subscription company ?
+What company became the UK 's largest digital subscription company ?
+In what year did BSkyB launch its acquisition ?
+What company changed its name to Sky plc ?
+What company was the United Kingdom 's company name ?
+In what year was the Setanta Sports packages awarded to broadcasters ?
+How many Premier League packages were awarded to broadcasters ?
+Who picked up the remaining four for £ 1.3bn ?
+What did Sky bid for a package of 120 premier games ?
+BSkyB was excluded from what consortium ?
+What company did BSkyB join to join BSkyB ?
+How many BSkyB channels were available on the platform ?
+Who replaced the TV TV in 2005 ?
+What was the name of Sky Three 's TV TV game ?
+What was BSkyB 's subscription fees for ?
+In what month and year was Sky users 3,393,000 Sky+ users ?
+What was the smaller version of the Multiroom box ?
+When was the non HD variant discontinued ?
+What was the original name of the Sky Box ?
+What kind of pay did BSkyB give to BSkyB ?
+Who owned BSkyB ?
+What company owned BSkyB ?
+Who has design authority over all digital satellite receivers ?
+What is another name for the Personal video recorder ?
+In what year did BSkyB and Virgin Media become involved ?
+What was the failure of the Virgin Media ?
+What happened to BSkyB ?
+What was the purpose of BSkyB 's new deal ?
+What was the name of BSkyB 's new deal ?
+When did BSkyB announce their settlement ?
+What did Microsoft call SkyDrive ?
+What did Microsoft call SkyDrive ?
+What did Microsoft rename the settlement to rename ?
+Who was the executive executive officer ?
+What is the new package for four channels ?
+When did BSkyB launch its analogue service ?
+What is the name of the Sky 's expansion ?
+How many households did BSkyB have ?
+What is the name of the Sky UK Limited ?
+What is Sky UK Limited 's company ?
+How many customers does the UK have in 2015 ?
+What was the UK 's most popular TV service ?
+What is another name for a broadband router ?
+What set does the Sky Q connect to ?
+What is the purpose of a top boxes ?
+In what year did Sky introduce UHD ?
+In what year was Sky Q available to be available ?
+What is BSkyB 's standard definition broadcasts ?
+What kind of soundtracks does BSkyB have ?
+What is Sky+ HD material broadcast using ?
+What type of system do 7-day services and 7-day EPG use ?
+What is BSkyB 's standard definition broadcasts ?
+In what year was Sky Digital launched ?
+What was the name of the satellite that Sky Digital was launched ?
+What was the Astra 2A satellite called ?
+How many television service did Sky sell ?
+What was the position of the new position ?
+When did BSkyB launch its HDTV service ?
+How many people were registered to receive the HD service ?
+What is the name of the set top box of BSkyB ?
+What was Sky 's total number of homes with Sky+HD ?
+When did BSkyB announce its intention to replace its three free channels ?
+In what month and year did Setanta launch its subscription service ?
+What platform did Setanta launch ?
+What company was NTL 's services re - branded ?
+What were the BSkyB 's portfolio ?
+What do some broadcasts do ?
+What is the monthly subscription for some broadcasts ?
+What is another name for encrypted content ?
+What does Provided mean ?
+What is another name for the VideoGuard receiver ?
+Who were the current rights holders ?
+How much money was keep to keep control of the rights ?
+Who was given the highlights of the matches ?
+How much did BSkyB pay for the Premier League rights ?
+What is the operating licence for BSkyB ?
+What is the fee for BSkyB 's EPG ?
+What opt for encryption receive discounts ?
+Is BSkyB able to do what ?
+Is BSkyB able to do what ?
+When was BSkyB 's digital service launched ?
+What was the name of BSkyB 's digital service ?
+What was the name of BSkyB 's interactive service ?
+What was the name of BSkyB 's cable services ?
+How many digiboxes had been sold ?
+In what year was Virgin Media re - branded ?
+What is the name of the company re - branded ?
+What is the name of the high - definition television capable top box ?
+What is the name of the linear HD channel ?
+What is the option for Virgin Media ?
+How many homes were available in 2010 ?
+What was the target of the broadcaster ?
+When was the target announced ?
+How much money was subscribed to BSkyB ?
+What type of birds were debated in Europe ?
+What was the goal of the payments ?
+What did the Supplemental Nutrition Assistance Program buy ?
+What was BSkyB 's subscription to BSkyB ?
+What was the UK 's benefits agency checking ?
+What did the single mother do to sports channels ?
+What is the annual carriage fees ?
+What is the Video On Demand ?
+What company agreed to terminate all High Court proceedings ?
+Along with Virgin Media and High Definition , what company is based in the Video On Demand ?
+What did BSkyB and Virgin terminate against ?
+What is the economy of Victoria ?
+Where is Victoria 's total state product ranked in Australia ?
+Where is Victoria 's total state product ranked ?
+What city is the sporting capital of Australia ?
+What is the largest stadium in Australia ?
+What is another name for Chinese miners ?
+Where did the riots occur ?
+Where was the riot located ?
+How many miners died in Buckland Valley in 1854 ?
+What were the gold fields ?
+What was the Victorian Legislative Council held under ?
+How many electorates was the State of Victoria divided into ?
+How many representatives are in the State of Victoria ?
+How long is the lower house members of the upper house ?
+How long does congress take place ?
+Which state is strongest in Melbourne ?
+What is Melbourne 's main support ?
+What team is strongest in Victoria 's North Western and Eastern rural areas ?
+Who won their first lower house in 2014 ?
+Which state is strongest in Melbourne ?
+What percentage of Victorians describe themselves as Christian ?
+How much of the Victorian population is Roman ?
+What is the state 's largest non - Christian religion ?
+How many members are in Buddhism ?
+What percentage of Victorians claim no religion ?
+Where is Victoria located ?
+What type of state is Victoria ?
+What is Victoria 's state overall ?
+What is the largest city in Port Phillip Bay ?
+What is the largest city in Melbourne ?
+What is the large number of Aboriginal peoples known as ?
+In what year was Victoria 's Australian continent claimed ?
+What colony was Victoria included in ?
+Where did the first settlement occur ?
+In what year did the first settlement occur ?
+How many square kilometres of Victorian farmland are there ?
+What percentage of wheat is sown for wheat ?
+How many square kilometres of hay is there ?
+How many Australian pears does Victorian have ?
+How many tonnes of pears were produced ?
+When was Victoria 's constitution enacted ?
+When was Victoria 's constitution based ?
+What is the Victorian Constitution amended by ?
+What is the Victorian Constitution ?
+What law established the 1855 colonial constitution ?
+Where do the Mallee and upper winds migrate from ?
+What is Tucson 's temperatures exceed ?
+What is the winter temperatures in winter ?
+What is the highest maximum temperature in Victoria ?
+When was Victoria 's highest maximum temperature recorded ?
+What is public schools known as ?
+Who is responsible for public schools ?
+What type of costs is levied ?
+What religious denomination is home to parish schools ?
+What type of standards do NPOs comply ?
+What is the global industry for Victoria ?
+In what year was Victoria 's base year ?
+In what year did Holden 's announcement occur ?
+In what year did Holden 's announcement occur ?
+What was the name of the Victorian plants in Broadmeadows ?
+How much land is the Victorian alpine areas ?
+What is the highest peak in Victoria ?
+How high is Mount Bogong ?
+What is the extensive series of Victoria ?
+What is the state bird called ?
+What is the coldest part of Victoria ?
+What is the Alps part of ?
+Where is the Great Dividing Range extending ?
+What is the highest parts of Tucson 's temperatures ?
+What is the state 's lowest temperature ?
+What provided Rail transport in Victoria ?
+What is another name for Melbourne 's passenger system ?
+Who owns V / Line ?
+What type of services does CFCL CFCL Melbourne operate ?
+What type of system is Metro Trains Melbourne ?
+How many seats does Victoria have ?
+How many seats does Victoria have ?
+What is the lower house in Victoria ?
+What is the upper house ?
+Who is the Governor of Victoria ?
+When was the election of Victoria issued ?
+In what year was gold discovered ?
+What is the largest gold in the world ?
+What is the population of Victoria ?
+How many ounces of gold did Victoria produce ?
+How many public schools did Victoria have ?
+How many Catholic schools did Victoria have ?
+How many students were enrolled in public schools ?
+How many full - time teachers does Victoria have ?
+How many private students attend Catholic schools ?
+Who is the centre of dairy farming in Australia ?
+How many dairy cattle does Australia have ?
+What is the percentage of Australia 's dairy cattle ?
+What is the nation 's milk ?
+Where is the abalone and rock lobster exported ?
+What is the Victorian lines used for ?
+What is the number of branch lines in the state ?
+How much lines does the tourist railways operate ?
+Where are the government owned ?
+How many government lines are found in narrow gauge lines ?
+In what year was the colony of New South Wales founded ?
+What was Australia divided into ?
+What was the name of Australia 's western half ?
+In what city was New Holland located ?
+In what year was Victoria rebellion ?
+What was the name of Victoria 's mining taxes ?
+Who crushed the colonial ?
+What did the administration cause to reform ?
+What was the passage of Victoria 's government called ?
+What is the leader of the Premier League ?
+Who is the leader of the political party ?
+What is the Cabinet consist of ?
+Who is the current Premier of Victoria ?
+What type of government is Cabinet ?
+What is the gross value of Victorian agricultural production ?
+What was the gross value of Victorian agricultural production ?
+How many farms were occupied in 2004 ?
+How large is the 32,463 farms ?
+How much of the state 's land surface is there ?
+How many part of Victoria 's events are in Victoria ?
+What type of tourism is Victoria ?
+Where are most of the most famous events ?
+Where is the Grand Annual Steeplechase located ?
+What is the name of the Port Autumn Festival ?
+How many French Catholics were in France ?
+How many French Catholics were in France ?
+When did the Wars of Religion end ?
+What was the wars called ?
+What happened to the Edict of Nantes ?
+Where was a term used ?
+What was the name of the Swiss politician that died in 1532 ?
+What was John Calvin 's home ?
+In what plot did the label Huguenot originate ?
+In what year was the Amboise plot introduced ?
+What was important to the spread of the Reformed church ?
+What was the French version of the Scriptures ?
+Who was the Roman Catholic priest ?
+In what year was the manuscript printed ?
+Where was the manuscript printed ?
+What was Montpellier 's most important ?
+Who was the most important of the Huguenots ?
+In what year did the royal army take place ?
+What was dead in 1629 ?
+When was the Edict of Alès ?
+Where did the Huguenots settle ?
+Where was the first Huguenot to establish a settlement ?
+Who was the first Huguenot to arrive at the Cape of Good Hope ?
+Where was the first group of Huguenots set ?
+In what year did the Huguenots arrive in the Cape ?
+When did Huguenots arrive to North America ?
+Who led the Huguenots in New France ?
+What did the Huguenots establish in 1628 ?
+What is the Episcopal church called ?
+In what borough did the first Europeans live ?
+Where did the Huguenots settle ?
+What district did Jacques de Bordeaux live to ?
+In what year was the British Crown founded ?
+Who purchased the slave owners ?
+Where was Rev. Elie Prioleau from ?
+Who was the strongest opponent of king Louis XIV ?
+What position did William III of Orange hold ?
+What league did William join ?
+What country did many Huguenots belong to ?
+In what year did William III capture the Dutch Republic ?
+What was the name of Louis XIV 's Edict ?
+When did the Edict of Fontainebleau end ?
+Who led the Edict of Nantes ?
+How many Huguenots died in France ?
+What church is the Huguenots ?
+What was the height of the persecution ?
+How many people were killed in the St. Bartholomew 's Day massacre ?
+What happened to the Huguenots ?
+Why was the Huguenots killed ?
+What were the three small civil wars called ?
+Where did the Huguenot rebellions take place ?
+When did the Huguenot rebellions take place ?
+Who died during the uprising ?
+What was the name of the successor ?
+How many Protestants are in modern France ?
+How much of France 's population is in modern France ?
+Where in France is most of the most popular ?
+What mountain region is in the south ?
+From what country is Huguenot thought ?
+What is another name for New York City ?
+Where is New York City located ?
+What is the oldest street in America ?
+What is the Huguenot Street Historic District known as ?
+Where was the Huguenots settled ?
+What was the largest group of Huguenot refugees ?
+How many people lived in the Huguenot Republic ?
+How many people visit the time of time ?
+Where was the first areas of Huguenot immigrants located ?
+What was the largest group of Huguenot refugees ?
+Where was the prétendus réformés located ?
+Who was the gate of King Hugo ?
+The gate of King Hugo was haunted by whom ?
+What was the name given to Tours ?
+In what year did the prétendus réformés appear ?
+Where is the Walloons and Huguenots located ?
+What was the site of a weaving school ?
+What did many Huguenots do ?
+What areas of Kent were used in Kent ?
+What is the restaurant adapted as ?
+Where were the Huguenots from ?
+Where is the Huguenot Church located ?
+Where is D'Olier Street located ?
+What did D'Olier Street in Dublin named after ?
+What is the name of the French church in Portarlington ?
+What did the exodus of France create ?
+Where was the French crown refusal to settle ?
+Who did the French crown refusal to allow ?
+What was the name of the North American War ?
+When did the British invade New France ?
+Who was the Edict of Nantes ?
+In what year did the warfare begin ?
+What happened to the Edict ?
+What was the Edict ?
+What religion was Henry of Navarre ?
+What was the revocation of Protestant services ?
+What is the revocation of Protestant services ?
+How many North colonies emigrated to the North American colonies ?
+What were the Huguenots called ?
+What were some of the business leaders in the country ?
+Where did the first Huguenots leave freedom from ?
+Where did the French colonisers arrive in 1555 ?
+Where was the French colonisers located ?
+What happened to the fort in 1560 ?
+What was the first Protestant confession ?
+What language do many families belong to ?
+What owes a significant debt to the Huguenots ?
+Where in South Africa is the farms located ?
+What language do many families have ?
+Who was descended from Huguenot refugees ?
+Who was Paul Revere 's was descended as ?
+Where is the last Huguenot congregation located ?
+What is the Huguenot Society of America ?
+What state is the largest ?
+What industry did many Huguenots settle in ?
+What is another name for lace ?
+What is the only reference for immigrant lacemakers ?
+When did lace develop ?
+What new neighbourhoods were created in Berlin ?
+How much of the population was French speaking in 1700 ?
+What happened to switch to German ?
+In what year did Napoleon switch to German in protest ?
+What are some of the congregations that were founded ?
+What country did Frederick William William belong to ?
+What part of France was the Huguenots in ?
+What was the regional group in the early 18th century ?
+What was the Huguenots rioted against ?
+In what years did the French take place ?
+In what city is Fort Johns located ?
+Who established the small colony of Fort Caroline ?
+What colony did Jean Ribault establish ?
+What type of forces were stranded ?
+In what year did the French invade St. Augustine ?
+What outpost was founded in 1562 ?
+Where was Charlesfort located ?
+Who was the settlement sent to La Augustine ?
+In what year was the second voyage to build a colony ?
+What was abandoned a return voyage ?
+In what state did French Huguenots settle ?
+In what county was the English Crown located ?
+What was the Monacan village known as ?
+How many settlers were in the isolated settlement ?
+When was the Virginia General Assembly passed ?
+When was the Dutch Revolt ?
+What country did many Huguenots fight in the Low Countries ?
+What was William the Silent ?
+What was the name of the " Apologie " ?
+How many churches are in the Prinsenhof ?
+What act did the Huguenots cross to England ?
+In what year did the Foreign Protestants Naturalization Act occur ?
+How many Protestant Walloons were fled to England ?
+Who was the exiled community in London ?
+What did Andrew Lortie become known for ?
+Where did Huguenot regiments fight ?
+Who did Huguenot regiments fight for in Ireland ?
+Where were most Huguenot settlements located ?
+What did many settlements contributed to ?
+What industry was the growth of flax cultivation ?
+Who was the Huguenot community in 1604 ?
+What did Prince Louis de Condé do in 1604 ?
+What did the Condés establish ?
+In what decade did many people settle to the United States ?
+Where was the Huguenot community located ?
+What were the Huguenot émigrés relocated to ?
+Where did the Huguenot émigrés move to ?
+What was the name of the land that spread beyond Europe ?
+What is the name of the English colonies that were accepted to worship ?
+What happened to the Dutch colonies ?
+Who was the name of the " Hugues hypothesis " ?
+What hypothesis believes that the name was derived from Capet ?
+Who is an example of a name that is roughly equivalent to little Hugos ?
+What is the purpose of the name huguenote ?
+What is another name for double or triple ?
+Who was the Gallican church ?
+Where was Lefevre located ?
+In what year was the whole Bible created ?
+Who was a leader of the Swiss Reformation ?
+Who converted Protestantism to Protestantism ?
+When was the St. Bartholomew 's Day Massacre ?
+Who killed thousands of Huguenots in Paris ?
+How many Protestants were slaughtered in Toulouse ?
+In what year was a amnesty granted ?
+How many Protestants had been massacred in Paris ?
+Who gained the throne in 1643 ?
+What happened to Louis XIV in 1643 ?
+Why did he respond to Catholicism ?
+What happened to the Huguenot school ?
+What was the name given to the military ?
+In what county is New Rochelle located ?
+What is another name for Davenports Neck ?
+Who bought the Lord of Pelham Manor ?
+What was the former name of New Rochelle ?
+What was the name of the church replaced by the Catholic church ?
+What do most Huguenot congregations have ?
+What happened to the Huguenots ?
+What was the name of Lavoisier 's student mills ?
+How long did it take to use French first ?
+What type of gunpowder was created by E.I. du Pont ?
+Who was the most prominent Huguenot refugees in the Netherlands ?
+Where did Chopin begin working ?
+What was the name of Chopin 's multi - volume masterpiece ?
+What is the name of the 100 foundational texts ?
+What is the name of the celebration that is feast ?
+What was established by Royal Charter in 1550 ?
+In what year was the French Protestant Church established ?
+Where is Tucson 's now located ?
+What is the name of the Huguenot refugees in London ?
+In what year was the Black Eagle Brewery founded ?
+Where was Huguenot refugees located ?
+Where are the Huguenot refugees located ?
+What was the name of the Edict ?
+What was Frederick William 's position ?
+How many regiments did the Huguenots have ?
+Who was the Elector of Brandenburg ?
+What was the name of the poet von Hermann von François ?
+Who was the hero of the Luftwaffe ?
+Who is the last Prime Minister ?
+What is the Huguenot family ?
+What type of power can be used ?
+What is the ideal thermodynamic cycle ?
+What type of water is transforms ?
+What type of pressure is transforms ?
+What type of engines are Steam engines ?
+What was the first true engine ?
+Who invented the atmospheric engine ?
+In what year was the atmospheric engine created ?
+What was the improvement for Savery ?
+Who proposed the piston steam pump ?
+Where was the first full railway locomotive built ?
+When was the first railway locomotive built ?
+Where was the first railway locomotive built ?
+Where was the first railway locomotive built ?
+Where was the first railway locomotive built ?
+What kind of pump do steam engines have ?
+What type of pumps do Utility and industrial boilers use ?
+In what decade did Injectors become popular ?
+What type of locomotives were used in the 1850s ?
+What is a injector ?
+How many expansion stages are used ?
+What is another name for engines that use engines ?
+In what century was the Yarrow - Tweedy system used ?
+What was the Yarrow - Tweedy system used for ?
+What is another name for large passenger liners ?
+What is another name for Stephenson ?
+What is the usual compromise solution ?
+What may be present in the crown of the boiler 's firebox ?
+What happens to the water level drops ?
+What is an example of a water level drops ?
+What happens to the water level drops ?
+What effect does the steam escape have ?
+Who patented continuous rotary motion ?
+What did James Watt 's steam engine produce ?
+How many - horsepower engines were powered ?
+When did engines provide 10,000 hp ?
+What was a key component of the stationary steam engine ?
+When did the steam engine start back back ?
+Who was the first rudimentary steam engine ?
+Who was the mathematician of Alexandria ?
+Who created a steam turbine device ?
+When did Jerónimo de Ayanz y Beaumont purchase patents ?
+What came into the end of the 19th century ?
+What was the name of the stages of stages ?
+What was important to reduce the weight of coal ?
+What was the weight of double and triple expansion ?
+What was the dominant source of power ?
+What was the final evolution of the steam engine design ?
+In what century did the use of steam turbines begin ?
+How many horsepower does the steam engines have ?
+How much of the electric power is produced in the United States ?
+What type of power is provided by steam turbines ?
+What is the heat commonly used for ?
+What type of heating is used in the case ?
+What is the most useful instrument for steam engines ?
+In what year were early versions of early recordings developed ?
+What was the most successful indicator engine ?
+Who developed the most successful indicator engine ?
+Where was the most successful indicator for Charles Porter ?
+How high is the two - cylinder compounds ?
+How high is the 4-cylinder compound ?
+How high is the double expansion group ?
+What is another name for each stroke ?
+How many piston strokes does the complete engine have ?
+How many rotation cycle does the complete engine cycle contain ?
+How many events does the complete engine have ?
+What is the cycle cycle called ?
+What type of cycle is used in the port ?
+What is the aim of the uniflow ?
+What type of cylinder is a expansion of the simple expansion engine ?
+What is another name for the pivot mounting ?
+What is another name for toys ?
+What type of ships are used in the compactness system ?
+What is the working fluid fluid ?
+What is the closed loop system called ?
+What is the working fluid in the mercury vapor turbine ?
+What is the fluid of choice due to its favourable properties ?
+What is the efficiency of a Rankine cycle limited by ?
+What is the temperatures limit for stainless entry ?
+What is the creep limit ?
+What is the condenser temperatures in the temperatures ?
+What is the theoretical Carnot efficiency of the coal station ?
+What can be the moving force behind the Industrial Revolution ?
+What is another name for motorcycles ?
+Along with mills and mills , what type of transportation is used in the Industrial Revolution ?
+What did the use of agriculture led to ?
+What was the name of the trio concluding ?
+What type of locomotive Salamanca was locomotive ?
+What was the name of the twin locomotive Salamanca ?
+Who built the Locomotion ?
+Who invented the Woolf high - pressure engine ?
+What nationality was Arthur Woolf ?
+What can be reduced ?
+What is a larger volume of lower steam steam ?
+How much of the world 's electric production was in electricity generation ?
+What type of engines does steam turbines have ?
+What type of turbines have supplanted steam propulsion ?
+What type of turbines were used in marine service ?
+What type of gearing is steam turbines ?
+What is the fundamental underpinning of the steam engine ?
+What is the heat added to ?
+In what decade did Rankine steam cycles begin ?
+What is another name for coal power ?
+What nationality was William John Macquorn ?
+What was the historical measure of a steam engine ?
+How long was the concept of duty ?
+How much coal is the bushel ?
+How many Newcomen designs were there ?
+How many duty designs were able to deliver duty ?
+What was the ascendancy of power in power generation ?
+What remained the dominant source of power ?
+What type of type is the great majority of electric generation ?
+What gradually resulted in the replacement of electric motors ?
+Who developed the first water pump ?
+What was the first commercial steam - powered device ?
+In what year was the first water pump developed ?
+Who introduced an ingenious improvement of Savery 's construction ?
+Who described the Philosophical Transactions ?
+What was the name of the Richard Evans 's steam steam ?
+Who introduced high - pressure steam ?
+When was the high - pressure engine obtained ?
+What type of applications could be used to be small ?
+What was the steam engine called ?
+What was the name of Sweden 's company ?
+Where is the company Energiprojekt AB located ?
+What type of engine is the engine ?
+What is the lb kWh of steam per kWh ?
+What is the efficiency of Energiprojekt 's steam engine ?
+What is the cold sink used for ?
+What is a dry type tower similar to ?
+What is a dry type tower used for ?
+What is another name for Evaporative ?
+What governor was adopted by James Watt ?
+What was the name of Watt 's partner ?
+How large was Boulton 's partner ?
+What was the constant constant speed for the governor ?
+What did the governor not do ?
+In what year did compounding become popular ?
+Where was the adoption of compounding not popular ?
+Why was the adoption of compounding often perceived ?
+In what year was compounding common ?
+What was the adoption of compounding ?
+What is the reversing event called ?
+What is another name for excessive compression ?
+exhaust steam can not do what ?
+What type of length is the simplest valve gears ?
+Who was the first patent for a steam engine ?
+What nationality was the first patent for a steam engine ?
+When was the first patent for a steam engine created ?
+In what year was a steam pump patented ?
+When was the first steam engine used ?
+What is another name for a steam turbine ?
+What is a steam turbine mounted on ?
+What is another name for stators ?
+What is another name for stators ?
+How many revolutions are in the US ?
+What type of motors have been superseded by mobile applications ?
+What is most electric power generated using ?
+What is another name for the ?
+What has incited a renewed interest in steam ?
+What is another name for pistonless ?
+Where is the Wankel engine located ?
+What is the major problem with sealing rotors ?
+In what year was James Watt born ?
+What did James Watt introduce ?
+How much was Boulton 's early engines ?
+What was the name of Watt 's early engines ?
+What were the air pressure powered by ?
+How many independent mechanisms does Steam engines have ?
+What type of valve do safety valves restrain ?
+What is the more recent type of safety valve ?
+What was the horizontal engine ?
+When was the Corliss steam engine patented ?
+How many - valve counter engine did the Corliss steam engine have ?
+What was Corliss known for ?
+How much less less steam is used steam ?
+What contributed to the steam engine ?
+What was the experimental measurements for the model ?
+What was the development of the steam engine ?
+Who confirmed latent heat ?
+What was the name of the discoverer of Watt ?
+What is the Rankine cycle ?
+What type of phase is the working fluid ?
+How much of the turbine 's pump does the pump receive ?
+What is the range of turbine entry ?
+What is another name for pumps ?
+What is the purpose of the water ?
+What is the temperature of the steam point called ?
+What is another name for coal ?
+What is coal used for ?
+What was usually available for steam engines ?
+What was the name of the invention that steam turbine ?
+What was the name of the battleships that speed speed ?
+What type of liners did the British use ?
+In what year was the HMS Dreadnought created ?
+What is an example of a nuclear power plants ?
+What is the purpose of steam power plants ?
+What is a steam drives ?
+What type of transmission is used to connect propulsion ?
+In what country was Sweden a success ?
+What is the Rankine cycle referred to as ?
+Where is the rejection of rejection ?
+What is another term for isobaric ?
+What is the constant temperature in the theoretical Carnot cycle ?
+What type of form is used in a compressor ?
+How many atomic number does Oxygen have ?
+What is the third abundant element in the universe ?
+What is the 20.8 % of the Earth 's atmosphere ?
+How many atoms bind dioxygen ?
+How much of the crust is Oxygen ?
+How many atomic number does Oxygen have ?
+What group is the periodic table a member of ?
+What type of wood is Oxygen ?
+What is the rank of oxygen in the universe ?
+What is another name for two atoms ?
+What is the energy of sunlight called ?
+What is the energy of energy from water called ?
+What is most of the mass of living organisms ?
+What type of mass is oxygen ?
+What is the energy of sunlight called ?
+What is the energy of sunlight to produce ?
+What is another name for O 3 ?
+Who was necessary for combustion in the late 17th century ?
+Who was the English chemist of the chemist ?
+What is consumed in both respiration and combustion ?
+What is John Mayow 's profession ?
+Who was necessary for combustion in the late 17th century ?
+What was John Mayow known for ?
+When was air is necessary for combustion ?
+nitroaereus is consumed in what ?
+Who was the English chemist of the chemist ?
+What was the name of the book that published his findings ?
+What was the name of Joseph Priestley 's British ?
+What is the name of the sunlight in the meantime ?
+What is another name for mercuric oxide ?
+What is the name of the sunlight in the meantime ?
+What was the gas tube called ?
+In what year was Priestley published ?
+What was the priority for the first step ?
+What happened to the mouse ?
+Who built Philo 's work ?
+What was the name of the writer that conducted the relationship between combustion and air ?
+In what century was mechanics conducted ?
+What was the name of the writer that conducted the relationship between combustion and air ?
+What were parts of the air in the vessel ?
+What was the name of Philo 's work ?
+Who built Philo 's work ?
+What is the portion of Philo 's work ?
+What is needed to trigger combustion ?
+What is another name for Oxygen ?
+What do Combustion hazards apply to ?
+What is the concentrated sources of oxygen promote ?
+What is needed to trigger combustion ?
+What is another name for Oxygen ?
+What is the source of Oxygen ?
+What compounds can donate oxygen to a fire ?
+What do Concentrated O 2 will allow to proceed ?
+What is the purpose of O 2 systems ?
+What does O 2 systems require to ensure ignition sources ?
+What was the name of the fire that attacked the pad test ?
+What is the Earth 's crustal rock called ?
+What is the form of Oxygen ?
+What is the form of Oxygen ?
+What is the Earth 's Earth called ?
+What is the Earth 's Earth ?
+What is the Earth 's Earth ?
+What is the rest of the Earth 's crust called ?
+What was John Dalton 's original atomic hypothesis ?
+What type of atomic ratios did John Dalton have ?
+What was Dalton 's formula ?
+What is the assumption of water elemental molecules ?
+What is another name for wood ?
+What type of wood has gains weight ?
+What did the buoyancy of gaseous combustion products cause ?
+What was the phlogiston theory incorrect for ?
+What did most common objects appear to become ?
+What is the purpose of a digimon ?
+What is the bond order of the filling of oxygen ?
+What is the double bond called ?
+What is the bond described as ?
+What is a covalent double bond ?
+In what years was Oxygen discovered ?
+In what year was Oxygen discovered ?
+In what year was Priestley given priority ?
+Who coined the name oxygen ?
+What type of theory was oxygen ?
+What is the configuration called ?
+What is the O 2 molecule referred to as ?
+What type of electrons does the electrons have ?
+What type of combustion does the unpaired electrons have ?
+What is the highest energy in the USAF ?
+What type of trapped was consumed ?
+What happened to the tin ?
+When was Sur la général published ?
+What is another name for Gk ?
+What is produced in the upper atmosphere ?
+What type of oxygen is damaging to lung tissue ?
+What is the reactive allotrope damaging to ?
+What is the ozone layer of ozone ?
+What is another name for O 2 ?
+What is the common allotrope of elemental oxygen on Earth called ?
+What is the bond length of 121 pm kJ·mol−1 ?
+What is the part of the Earth 's atmosphere ?
+What does O2 stand for ?
+What is it called when O2 is used ?
+Who was able to produce liquid oxygen to study ?
+In what year was James Dewar able to produce enough liquid oxygen ?
+When was the first viable process for liquid oxygen created ?
+What welding was demonstrated in 1901 ?
+What is more soluble in water than nitrogen ?
+What is the solubility of oxygen in water ?
+What is the freshwater atmosphere of oxygen ?
+What is the solubility of solubility per liter ?
+What is the solubility of oxygen in water ?
+What type of chemical element is Oxygen ?
+What is the most abundant chemical element in the universe ?
+What percentage of the Sun 's mass is oxygen ?
+What is the major component of the Earth 's crust ?
+What is the O 2 ?
+In what century did air could be liquefied ?
+What components of air could be liquefied ?
+What was the name of the Swiss chemist ?
+How much of the liquid were no meaningful analysis ?
+When was the first time in the UK ?
+Where did the isotope ratios occur ?
+The Sun has a higher proportion of what ?
+What spacecraft did the Sun destroy ?
+What is the measurement implies of ?
+Where did the dust of dust form ?
+What is a name for several higher - energy species ?
+What is the reactive oxygen reactive to ?
+Where is singlet oxygen formed ?
+What is the ozone in the troposphere called ?
+What type of photosynthetic organisms can cause harm ?
+What measure the ratio of oxygen-18 and oxygen-16 ?
+How long did the ratio of marine organisms determine ?
+What is the % faster rate for water ?
+What is the seawater left to be higher ?
+What is the cause of snow and rain ?
+What is the wavelengths for two spectrophotometric absorption bands ?
+What is the possible method of monitoring ?
+What type of platform do some bands characterize ?
+What is the possible method of carbon cycle ?
+What type of sensing scientists use the measurement of the radiance coming ?
+What is another name for O 2 molecules ?
+What may be supported against its poles ?
+What is an example of a spin magnetic moments ?
+What type of field is magnetic character ?
+What is another name for liquid oxygen ?
+What are the superoxide ion species ?
+Parts and singlet oxygen create what ?
+What is another name for plants ?
+What is Oxygen toxic to ?
+How old is the dominant form of anaerobic organisms ?
+How high is Oxygen condenses ?
+What type of substances are found in the sky ?
+What is the fractional distillation of High purity ?
+What is another name for hydrogen oxygen ?
+What is the reactive substance segregated from ?
+Where does Free oxygen occur ?
+What is the increased solubility for O 2 ?
+What is the higher density of life ?
+What is the aspect of water quality ?
+What is the growth of polluted polluted nutrients ?
+How long did it take for photosynthetic gas ?
+When was it first used ?
+What type of formations form iron in the oceans ?
+How long did it take for the present level of oxygen ?
+When did free oxygen begin ?
+What is the high concentration of oxygen gas on Earth ?
+What is the cycle called ?
+How many main reservoirs are on Earth ?
+What is the main driving factor of the oxygen cycle ?
+What does Photosynthesis releases into ?
+What is the O 2 gas ?
+What is the gas stream of O 2 gas ?
+What does the O 2 sieves produce ?
+What type of technologies is Oxygen gas ?
+What is Oxygen gas ?
+What is the electrolysis process used for ?
+What can be produced through electrolysis ?
+What must be used for AC ?
+What is the electrocatalytic O 2 evolution ?
+What type of catalysts can be used ?
+What is another name for Oxygen ?
+What is another name for Oxygen ?
+What happens to Professional athletes ?
+What do some O 2 mixtures have breathed during ?
+What type of effect is the pharmacological effect ?
+What type of chambers does the O 2 contain ?
+What does a O 2 concentration prevent ?
+Oxygen gas is poisonous to what ?
+What type of disease occurs in divers ?
+What is the essential purpose of the air ?
+What is used to treat emphysema ?
+What type of disease is pneumonia ?
+What is used to treat emphysema ?
+What is another name for emphysema ?
+What is an example of a oxygen forms ?
+What is another name for oxygen forms ?
+What is another name for wüstite ?
+What is the surface of most metals ?
+What is an example of a surface of oxide ?
+What is another name for O 2 ?
+What type of chemical pressure is used to drop cabin ?
+What is a steady stream of oxygen gas ?
+What type of oxygen is produced by the exothermic reaction ?
+What type of methods are high pressure tanks ?
+Where is oxygen transported in bulk ?
+Where is oxygen transported in bulk ?
+What type of gas is Oxygen ?
+What do tankers stand for ?
+What type of solvents is the most important ?
+What type of solvents is the most important ?
+What type of materials are used in Acetone ?
+What is the oxygen atom part of ?
+What type of organic solvents is most likely to be found ?
+How is the element found ?
+How many complex biomolecules are there ?
+What is the largest proportion of oxygen ?
+What is an example of a oxygen ?
+What part of the brain is calcium phosphate ?
+What can happen to deep scuba diving ?
+Prolonged breathing can lead to permanent what ?
+What is the O 2 partial pressures ?
+What is the most feared effect for divers ?
+What is the most feared effect for divers ?
+What is the cause of no damage ?
+How much pressure is the O 2 partial pressure ?
+How much normal is the O 2 partial pressure ?
+How many sea - level pressure does the arterial blood have ?
+What happens to Apollo 's spacecraft ?
+How is O 2 toxic ?
+How does Oxygen toxicity occur ?
+How much rain does toxicity last ?
+What type of ventilators is it called ?
+How many % of gas masks are composed ?
+In what year did the oil crisis begin ?
+How much was the price of oil per barrel ?
+When was the " second oil shock " introduced ?
+What was the oil crisis called ?
+What year did the Organization of Arab Petroleum Exporting Countries end ?
+Why did many European nations try to disassociate themselves ?
+What type of negotiations did the Nixon administration begin ?
+When was the Israeli troop withdrawal withdrawal from the Sinai Peninsula ?
+When did Arab oil producers lift the embargo ?
+On what date was the Bretton Woods Accord pulled ?
+What happens to the currency values ?
+In what month and year did OPEC price oil in terms of gold ?
+Why was the dollars priced in Burma ?
+What was the dollar price of oil in 1947 ?
+In what year was OPEC slow to readjust prices ?
+What was the substantial price of gold ?
+What caused the price stable versus other currencies and commodities ?
+When was the surprise attack on Israel ?
+What country was the world 's second largest oil exporter ?
+What is it called when the price should pay ?
+What was the name of the Shah 's Shah ?
+When did the renewal of hostilities occur ?
+What was the posted price of oil in 1973 ?
+What was the date of OPEC 's price of oil ?
+What happened to the embargo ?
+How much money did Nixon give to Israel ?
+What was the posted price of oil in 1973 ?
+How much did Saudi Arabia pay for Islam ?
+What are the al - Haramain Foundation ?
+In what region did the political tensions occur ?
+What was the reason for the income for underdeveloped nations ?
+What is Saudi Arabia known as ?
+What has been responsible for recessions ?
+What country was the Middle East confrontation with ?
+In what year was equality based on both parties ?
+Who 's dominance is no match ?
+What had a negative influence on the US economy ?
+What is the price increases in many industries ?
+What problems consisted of inflationary and deflationary impacts ?
+What is another name for oil supplies ?
+How long do oil and developing fields required ?
+What country faced a complete embargo ?
+Who was an ally of Israel ?
+Who did Harold Wilson support during the Six - Day War ?
+Who was the successor of Israel in 1970 ?
+What country had a oil crisis ?
+What happened to the oil crisis ?
+What is the major factor in the UK ?
+What country rationed gasoline and heating oil ?
+What exacerbated the crisis in the US ?
+What is the price for oil to encourage investment ?
+What is the price for oil to encourage investment ?
+What was hydrogen addressed by ?
+Who was the first Administrator of the Federal Energy Office ?
+In what year was the first Administrator of the Federal Energy Office created ?
+Why was the Administrator of the Federal Energy Office created ?
+How many American gasoline stations have no fuel ?
+What is the national speed limit of the Emergency Highway Energy Act ?
+What is a national speed limit ?
+Who signed the National Highway Designation Act ?
+When was the National Highway Designation Act signed ?
+In what year was the Department of Energy created ?
+What led to greater interest in renewable energy ?
+What does the crisis ignore ?
+Who has repeatedly backed policies ?
+What was the name of the United States declassified documents ?
+Who was the Ambassador of Defense Cromer ?
+How long was the American occupation of the United States ?
+What was the total alienation ’ ?
+What country was the most dependent on Arab oil ?
+What percentage of oil came from the Middle East in 1970 ?
+What happened to the Saudi and Kuwaiti governments ?
+When did Japan announce a statement ?
+When was Japan considered a Arab state ?
+What country did the USSR invade ?
+Which countries became dependent on American security assurances ?
+What country became dependent on American security assurances ?
+In what month and year was the large scale of arms purchase ?
+When was the Grand Mosque in Mecca ?
+How many cars did the crisis cause ?
+What is the name of the imports imports ?
+What type of engines were more fuel efficient ?
+What is the name of the imports imports ?
+In what year did the voluntary export of plants begin ?
+What was the name of the first Japanese cars ?
+What was the name of the Toyota 's Toyota trucks ?
+What was the name of the Forte Forte ?
+What joint partnerships did Mitsubishi and Isuzu have ?
+What type of policy did the American makers have ?
+What forced North America to introduce domestic sales ?
+How many passengers did the Dodge Omni / Plymouth Horizon have ?
+What year did the average American vehicle moved per gallon ?
+What were the only price price models ?
+In what year was American cars virtually shrunk ?
+In what year was Chrysler 's full luxury year ?
+What was the name of the Federal safety standards ?
+In what year did OPEC lose its preeminent position ?
+In what decade was the world price decreased ?
+Saudi Arabia trying to do what ?
+What was the world 's world price ?
+What is European Union law ?
+What is the main sources of primary law ?
+What is the primary definition of education ?
+What is the legislature of the European Union composed of ?
+What is European Union law ?
+What does Regulations and Directives have ?
+What are the three sources of European Union law ?
+What is the legislature of the European Union composed of ?
+What are the three sources of European Union law ?
+What is the main sources of primary law ?
+What is the legislature of the European Union composed of ?
+How many sources of European Union law are there ?
+What is the European Union law applied by ?
+What is the laws of member states enforced by ?
+What is the highest court able to interpret European Union law ?
+What is the sources of European Union law ?
+What is the European Union law applied by ?
+What is the European Commission 's member called ?
+What is the highest court able to interpret European Union law ?
+What is the Court of Justice called ?
+What is the European Union law applied by ?
+What is the laws of member states enforced by ?
+What is the highest court able to interpret European Union law ?
+What is the sources of European Union law ?
+What is the EU 's primary constitutional sources ?
+Who has the initiative to propose legislation ?
+Who is responsible for the European Parliament ?
+What is the supreme judicial body ?
+What is the Prime Minister ?
+What is the " core " treaties ?
+What is another name for the TEU ?
+What is the attainment of the states called ?
+What is the Treaty of Justice ?
+What is the definition of treaty apply ?
+What is the " core " treaties ?
+What are the European Union law ?
+What is the definition of treaty apply ?
+What is the attainment of the states called ?
+What did the principal Treaties of Rome start ?
+What did the principal Treaties establish ?
+In what year did Norway join Greece ?
+How many member of Norway did Norway have ?
+What signed a Treaty in 1985 ?
+What did the principal Treaties of Rome start ?
+When was the Maastricht Treaty formed ?
+In what year was the Single European Act signed ?
+In what year did Norway join Greece ?
+When did Greenland sign a Treaty ?
+What treaty was an attempt to reform the constitutional law ?
+What happened to the Constitution ?
+What was the constitutional treaty called ?
+What was the constitutional treaty called ?
+What did the constitutional treaty cause ?
+What was the Nice Treaty ?
+What did the Nice Treaty do ?
+What happened to the Constitution ?
+What treaty was enacted ?
+Who is the main executive body of the European Union ?
+Who has a monopoly on the legislative procedure ?
+Who is the ex - Luxembourg Prime Minister ?
+What is the Commissioner of Lisbon 's Commissioner ?
+Who is the Commission 's President ?
+Who is the ex - Luxembourg Prime Minister ?
+How are Decisions taken ?
+When did Ireland consent to changes in the Treaty of Lisbon 2007 ?
+What type of Commissioners are there ?
+Who was censured in 1999 ?
+What was the name of the culture that developed a culture ?
+Who is responsible for the six - person board ?
+What is the voting rights called ?
+In what year was the Santer Commission passed ?
+Who was the European Court of Justice ?
+What was the name of the culture that developed a culture ?
+What was the creation of the government called ?
+In what year was the Maltese Commissioner for Health investigated ?
+What is the Council ?
+Who is the former Prime Minister ?
+What is the goal of voting ?
+How many votes are in votes ?
+How many votes does the EU have ?
+What is the second main legislative body ?
+How long does it take for the President ?
+How many votes does the EU have ?
+What is the population of the EU ?
+What is the essence of the Council ?
+What is the Parliament must vote by ?
+What is it called to change EU law ?
+What type of state that powers remain conferred ?
+Who has the final say ?
+What defines the " ordinary legislative procedure " ?
+What is it blocked by ?
+What type of state that powers remain conferred ?
+What is another name for the Conciliation ?
+What is the important role in the EU ?
+What is the main judicial body ?
+How many members does the Treaty of Treaty have ?
+What is most EU law applied by ?
+What is the CJEU 's duty ?
+How is the Treaties of the law observed ?
+What is the main judicial body ?
+What is a deal with EU staff issues ?
+How long is a president elected ?
+What is the CJEU 's duty ?
+What is the Court of Justice called ?
+In what years was Italy contrary to Italy ?
+What has develop principles to resolve conflicts ?
+In what year was Mr Costa refused to pay his electricity bill ?
+What was the opinion of the nationalisation law ?
+What kind of law takes primacy over national law ?
+What is the goal of the Court of Justice ?
+In what year was the European Communities Act passed ?
+What is the German Constitutional Court ?
+What is the EU 's legitimacy on ?
+What binds EU institutions to follow the law ?
+How many actions can be subject to judicial review ?
+What is the European Union 's governance called ?
+What was Van Gend en Loos 's article ?
+What type of company was Van Gend en Loos ?
+What is another name for EU Regulations ?
+What is another term for citizens ?
+How long does the Working Time Directive cost each year ?
+How many days has the Working Time Directive require ?
+When was the Advocate Generals persuasively controversial ?
+What is a Directive 's deadline for implementation ?
+What is a Directive 's deadline for ?
+How long did Ms Kücükdeveci work for ?
+What was the name of Mrs Foster 's employer ?
+What happened to British Gas plc ?
+What have a duty to interpret domestic law ?
+What did the Court of Justice required for ?
+What happened to the Italian government ?
+How much money was Venetian firm allowed to claim ?
+Who created the principles of European Union law ?
+What is the European Union Law ?
+When was the European Court of Justice established ?
+When is the principle of proportionality recognised ?
+What is a choice of a onerous ?
+What is the important general principle of Burma ?
+What is the adoption of laws in the European Union ?
+What is the doctrine of legitimate expectation ?
+What is the European Court of Justice bound from ?
+What is the European Court of Justice incompatible with ?
+How many treaties establishing the European Union ?
+What is the establishment of human rights ?
+In what year was the European Convention on Human Rights established ?
+The European Convention on Human Rights is what ?
+In what year was the European Charter set ?
+In what year was the Lisbon Treaty established ?
+The Lisbon Treaty is set out of what organization ?
+What is the Charter ?
+What is the former court called ?
+The Social Chapter is a chapter of what treaty ?
+In what year was the Social Chapter established ?
+When was the Social Chapter developed ?
+How many general principles does the Social Charter have ?
+How many pieces of legislation did the Social Charter become ?
+How many states was the Social Charter adopted in 1989 ?
+Who refused to sign the Social Charter ?
+What was the Social Charter included as ?
+In what year was the " Social Chapter " included ?
+What happened to the Agreement on Social Policy ?
+In what year was the Agreement on Social Policy signed ?
+What was the Agreement on Social Policy called ?
+In what year was the Agreement on Social Policy established ?
+What did the 1994 Works Council Directive provide ?
+What countries does the EU have its origins ?
+In what year was the EU agreement signed ?
+What was the name of the agreement that banned Article 65 ?
+How many provisions of cartels were banned ?
+In what year was the EC Treaty created ?
+What is the Treaty of Lisbon ?
+What does Article 102 require ?
+What provide member to deliver public services ?
+What is the European Council called ?
+When was the " social market economy " introduced ?
+When was the " social market economy " introduced ?
+What is the North American Free Trade Association meant to do ?
+What does the Treaties limit ?
+What is Free movement achieved by ?
+What was the name of the group that discriminated Mr Dassonville ?
+What can the states be responsible for ?
+What country was continually sabotaging shipments of Spanish strawberries ?
+What was the minimum alcohol content for German law ?
+Where did Rewe - Zentrale import from ?
+In what year was Italian Commission v Italy case ?
+What was the Italian chocolate made from ?
+What was the aim of the law ?
+Who reviewed the Court of Justice ?
+What did the national courts want to protect ?
+When did the Treaties sought to pursue their life goals ?
+What was focused upon free movement of workers ?
+What was Free movement based on ?
+What was the Court of Justice entitled to do ?
+What is the Free Movement of Workers Regulation ?
+What is the court approved for ?
+What has been seen as a " fundamental " status of member nationals ?
+What is a fundamental status of social nationals ?
+The Court has required what ?
+What protects the " freedom of establishment in article " ?
+What is the name of the says that states are exempt from infringing others ?
+What was the goal of the Commission ?
+In what year was the Union of Justice contested ?
+What is the " freedom to provide services " ?
+What type of drugs were controlled in all states ?
+What was the Dutch health authorities known as ?
+What is another name for the Court of Justice ?
+How much money was required to start a company ?
+How many Danish krone did Denmark have ?
+What was the purpose of the Court of Justice ?
+What is the Amazon Jungle known as ?
+How many square kilometres is the rainforest ?
+How many nations does the region have ?
+How many nations does Amazonas have ?
+How much of the planet does the Amazon have ?
+What is another name for Dutch ?
+What is another name for the rainforest ?
+Where is the majority of the forest contained ?
+How much of the planet does the Amazon have ?
+How many species of trees are in the Amazon ?
+What type of rainforest is the Amazon ?
+How large is the basin ?
+How many nations does the region have ?
+Where is the majority of the forest contained ?
+How many species of trees are in the Amazon ?
+What type of climate does the dinosaurs have ?
+What has allowed savanna regions to expand into the tropics ?
+During what period did the rainforest spanned begin ?
+When did the inland formation occur ?
+What happens to the rainforest ?
+What caused the wetter climate to spread out ?
+What is the rainforest extended in 66–34 Mya ?
+What has allowed savanna regions to expand into the tropics ?
+During what period did the rainforest spanned begin ?
+What happened during the Middle Miocene ?
+What was the extinction of the wetter climate event ?
+What is the name of the rainforest extended in Mya ?
+During what period did the inland formation begin ?
+What was the inland formation of the Middle Miocene ?
+How many savanna fluctuations are allowed to expand into the tropics ?
+When was the drainage basin of the Amazon Arch split ?
+Where did glaciers occur ?
+What is the Andes Mountains known as ?
+How long did it take for water broke ?
+What is the flow of the Purus Arch ?
+When was the drainage basin of the Amazon Arch split ?
+What region is the Purus Arch located near ?
+Where did the west water fall through ?
+Where was the large basin created ?
+What is the Andes Mountains known as ?
+When was the drainage basin of the Amazon Arch split ?
+Who split the drainage basin ?
+What region near the eastern side of the west is located ?
+Where did the west water fall through ?
+What is the Andes Mountains known as ?
+What is the range of Amazon rainforest vegetation ?
+What is the lower rainfall in the basin ?
+What do some scientists argue about the rainforest ?
+Why has the debate done ?
+What type of explanations are supported by available data ?
+How many years after the Last Glacial Maximum is vegetation ?
+What is the rainfall in the basin ?
+What is the Analyses of Amazon basin ?
+What was the rainfall associated with ?
+What type of water is produced from Amazon basin ?
+What type of vegetation cover the basin ?
+What is the debate difficult to resolve ?
+What is the NASA 's satellite called ?
+How many tons of dust are in the Sahara ?
+How many miles is the CALIPSO satellite ?
+What is the basin of NASA 's CALIPSO satellite ?
+How many tons of dust are in the air satellite ?
+What is the CALIPSO measured by NASA 's CALIPSO ?
+How many tons of dust are in the Sahara satellite ?
+How many tons of dust does NASA have ?
+How many tons of dust are in the air satellite ?
+How many tons of dust are windblown ?
+What is the NASA 's satellite called ?
+What is the CALIPSO satellite called ?
+How many tons of dust are in the Sahara satellite ?
+How many miles is the CALIPSO satellite ?
+How many tons of dust does NASA have ?
+What book did Betty Meggers write for ?
+What is the population density of hunting ?
+What needed to host a larger population ?
+What suggested that the region was densely populated ?
+How many people live in the Amazon region ?
+What was the large population of agriculture ?
+Who was a prominent proponent of this idea ?
+What is the population density of hunting ?
+What book did Betty Meggers write for ?
+Who was a prominent proponent of this idea ?
+What book did Betty Meggers write for ?
+What is the population density density ?
+How many people live in the Amazon region ?
+What was the population of 1900 in 1900 ?
+What was the first European to travel the Amazon River ?
+Where was the Amazon 's civilization located ?
+What was the civilization devastated by ?
+In what decade was geoglyphs discovered ?
+When were the geoglyphs discovered ?
+What was the first European to travel the Amazon River ?
+When was the first European to travel the Amazon River ?
+When were the geoglyphs discovered ?
+Who is accredited the geoglyphs in 1977 ?
+How long has the Amazon rainforest been shaped ?
+What does Terra preta mean ?
+Where is Terra preta distributed ?
+What is the development of fertile soil ?
+In what tribe is Michael Heckenberger located ?
+Who were the large settlements in 2003 ?
+What does Terra preta mean ?
+What is the development of fertile soil ?
+In what tribe is Michael Heckenberger located ?
+Who found the Amazon tribe in 2003 ?
+What are some of the evidence of poultry ?
+How many insect species is the region home to ?
+How many bird species are in the world ?
+How many plant species have been classified ?
+How many fishes are in the region ?
+How many invertebrate species have been found in Brazil ?
+How many insect species is the region home to ?
+How many birds are home to the region ?
+How many plants are in the region ?
+How many reptiles have been scientifically in the region ?
+How many birds live in the Amazon ?
+How many acres of Ecuadorian rainforest does the plant have ?
+How many tree species does the rainforest have ?
+How many tonnes of living plants are there in 1999 ?
+What is the average plant biomass in Atlantic City ?
+How many species of plants have been registered in the region ?
+What is the biodiversity of plant species ?
+How many tree species does the rainforest have ?
+What is the average plant biomass per hectare ?
+How many species of plants have been registered in the region ?
+What can produce an electric shock ?
+What is another name for bite ?
+What do some species of poison dart secrete do ?
+What type of bats dwell in the rainforest ?
+What is the conversion of forested areas ?
+What decade was access to the forest ?
+What type of method was used in the 1960s ?
+Why were the colonists unable to manage their fields ?
+What happens to the outer space ?
+What is the total area of forest lost in the Amazon ?
+How many square kilometres did the Amazon have ?
+What did the lost forest becoming ?
+What is Brazil 's global producer ?
+What percentage of land since 1970 is used for livestock ?
+What type of farmers have been used in the Amazon ?
+Why did the first two highways open ?
+What is the mean deforestation rate in NYC ?
+What was the deforestation rate of deforestation in 2000 ?
+What has deforestation done in the Brazilian Amazon ?
+What is the loss of Environmentalists ?
+What is the reason for loss of biodiversity ?
+What is the release of the vegetation called ?
+What percentage of the Amazonian primary productivity does Amazonian evergreen forests have ?
+What is the metric of tonnes of carbon ?
+Why did greenhouse emissions become unsustainable ?
+What emissions caused the Amazon to be unsustainable ?
+How long could the rainforest be threatened ?
+Why could the rainforest be threatened ?
+What territories continue to be destroyed by deforestation ?
+What type of conservation efforts is the relationship between non - human primates ?
+What continue to be destroyed ?
+What continue to fight for their cultural survival ?
+What country has the relationship between non - human primates ?
+What is used for the conservation of the Amazon ?
+What Tribe is Google a part of ?
+Where is the Trio Tribe located ?
+What is the Trio Tribe ?
+What is the use of remote sensing ?
+What is the classification of Amazon 's biomass ?
+What is the classification of tree growth ?
+What is the name of the trees in 2006 ?
+In what year did Tatiana Kuplich organized the trees ?
+What type of Synthetic radar is used ?
+In what year was the worst drought in the Amazon ?
+What is the name of the newspaper that results the forest ?
+What is the effects of the rainforest ?
+What is the forest turned into ?
+In what year did the Amazon become a severe drought ?
+How many square miles of rainforest are there ?
+How many epicenters did the drought have ?
+In what year did the drought occur ?
+How much carbon dioxide does Amazon produce ?
+What is another name for Ctenophora ?
+What is the largest animals of cilia ?
+What do these groups rely on ?
+How many species of species are there ?
+What is the most distinctive feature ?
+What is another name for Ctenophora ?
+How many species of species are there ?
+What do these groups rely on ?
+What does Ctenophora mean ?
+What is another name for Ctenophora ?
+How many species have been validated ?
+What is another name for colloblasts ?
+How much weight can a ctenophores eat ?
+What type of annelids does the phylum have ?
+What is another name for teeth ?
+How much weight can a ctenophores eat ?
+What is another name for colloblasts ?
+What is another name for teeth ?
+sticky cells are covered with what ?
+How many species have been validated ?
+What type of animal do most species contain ?
+What do some hermaphrodites do ?
+What type of hermaphrodites can produce eggs ?
+What type of eggs are fertilized their parents ?
+What enables small populations to grow at an explosive rate ?
+What type of animal do most species contain ?
+What do some hermaphrodites do ?
+What are the sequential hermaphrodites ?
+What type of eggs are fertilized their parents ?
+What is an example of a young plankton ?
+What is the Beroe preys on ?
+What is the name of the ctenophore ?
+Why was Mnemiopsis blamed for fish stocks ?
+What type of birds occur in very high numbers ?
+What type of birds occur in very high numbers ?
+What is the name of the ctenophore ?
+What is Mnemiopsis blamed for ?
+What helped mitigate the problem ?
+How long did the Cretaceous period last ?
+What is another name for the cydippids ?
+How old was the early Cambrian ?
+What type of animal was fossils in the early Cambrian ?
+How old was the early Cambrian ?
+During what event did the modern modern groups begin ?
+What is the " cydippids " ?
+What type of animal was fossils in the early Cambrian ?
+What is another name for jellyfish ?
+Ctenophores are distinguished from what animals ?
+What is another name for less animals ?
+What is the animal phylum called ?
+Ctenophores are distinguished from what animals ?
+Ctenophores are distinguished from what animals ?
+Ctenophores are distinguished from what animals ?
+What is another name for less animals ?
+What is another name for jelly ?
+ctenophores and cnidarians are traditionally labelled what ?
+Where is the mesoglea located ?
+What type of annelids have diploblastic and cnidarians ?
+What is the main method of locomotion ?
+What is another name for cilia ?
+What is another name for cilia ?
+What does ' ctenophora ' mean ?
+What is the name of the cydippid ?
+What type of species is fragile ?
+What do glaciers need to be tough enough ?
+What are some of the three coastal genera ?
+What is the gastrodermis ?
+What is another name for photocytes ?
+What is another name for " throat " ?
+What is the inner surface of the cavity called ?
+What is the most active parts of the animal ?
+What is the outer comb rows called ?
+What is another name for combs ?
+What is a extra compact filament ?
+What is ctenophores usually swim in ?
+What is the " combs " ?
+What do some species of species do to water of different densities ?
+Where will the ciliary pump be pump ?
+What is the purpose of the ciliary rosettes ?
+What is the rosettes ?
+What is the largest single sensory feature ?
+Where is the aboral organ located ?
+What is the statocyst protected by ?
+What is a balance sensor called ?
+What is a statocyst ?
+What is another name for the coastal sea ?
+What does the body consist of ?
+How many rounded bodies are there ?
+How is slender tentacles housed ?
+Where is the egg located ?
+What is another name for the tentacles ?
+What is a cell type ?
+How many types of movement are used in capturing prey ?
+How are three types of movement used ?
+How many rows are in the mouth end ?
+Where do combs run from ?
+What is the eight rows of combs spaced ?
+What type of groove runs with the balancer ?
+The Lobata have a pair of what ?
+How many auricles does lobates have ?
+What is the purpose of water currents ?
+What is the purpose of lobates to feed ?
+How do Jehovah Witnesses escape from danger ?
+What is the jet of expelled ?
+What is another term for lobates ?
+What is the purpose of cydippids ?
+What is the Beroida known as ?
+What is another name for Nuda ?
+What is pursuing prey ?
+What is another name for the saclike body ?
+What is the " belt animals " ?
+What does the Cestida mean ?
+How can Cestids swim swim ?
+How much long is the largest ctenophores ?
+What is the " darting motion " called ?
+What type of tentacles do most Platyctenida have ?
+What does the pharynx do ?
+What type of rows do most species lack ?
+What is the cryptically colored for ?
+How are the gonads released ?
+What does Fertilization use in common species ?
+What species has been seen in species ?
+Where is the gonads located ?
+What type of species is Fertilization ?
+What are the adults in the genus ?
+What do some larvae live ?
+What is a radical metamorphosis ?
+What do juveniles behave more ?
+What is the juveniles ?
+What type of secretions are disturbed ?
+What is another name for some species ?
+What is the secretions secretions called ?
+What will luminesce more brightly than adults ?
+What type of predators are no vegetarians ?
+What type of animal do Members prey on ?
+What do the genus of jellyfish do ?
+What are the weaker weaker swimmers ?
+What is the name of the two - tentacled " cydippid " ?
+Why was dead ends in marine food ?
+What is the name of the salmon investigation ?
+Where do Beroids prey migrate ?
+Where do herbivorous fishes migrate ?
+What type of quantities do jellyfish eat ?
+What happened to the Black Sea and Sea of Azov ?
+When was the Western Atlantic ctenophore introduced ?
+Why were Mnemiopsis populations brought into control ?
+What happened to the cooling of the climate ?
+What type of bodies have fossils been found ?
+What does the Ediacaran Eoandromeda represent ?
+When did the Canadian period occur ?
+How many putative species were found in the Burgess Shale ?
+What type of animal was the most successful ?
+How long ago was the early Cambrian sessile ?
+What is the early Cambrian ?
+Who was the evolutionary " aunt " ?
+How many years did the early Cambrian period last ?
+When was the early Cambrian sessile ?
+What is another name for Cnidaria ?
+What is the earliest - diverging animal phylum ?
+What is another name for cydippid ?
+What is the cydippids ?
+How long ago did the Cretaceous period last ?
+Who invented the cydippids ?
+What is the county seat of California City ?
+How far is the Sacramento area ?
+What is another name for Fresno ?
+What is featured on the city 's flag ?
+What is another name for Fresno ?
+In what year was the Central Pacific Railroad established ?
+What were many Millerton residents drawn by ?
+In what year did Fresno become incorporated ?
+How many streetcars were built in 1931 ?
+Where was the town of Fresno Station located ?
+What was the Asian population in 1940 ?
+What was the name of the Japanese neighborhood in Mexico City ?
+What is the site of the Pinedale Assembly Center ?
+What is the Pinedale Assembly Center ?
+What was the Fresno Fairgrounds utilized as ?
+What product did Bank of America launch in 1958 ?
+Who was the first successful credit card ?
+What was the financial instrument of BankAmericard ?
+In what year was BankAmericard renamed ?
+What was the name of the company that produced BankAmericard ?
+In what town did the movie " Aken " originate ?
+What is the name of the first TV appearance guitar ?
+Who was the Mexican movie ?
+How many public parks does Fresno have ?
+Where is the Fresno Chaffee Zoo located ?
+What is the largest Fresno system ?
+What is another name for Woodward Park ?
+What is the largest Fresno system ?
+When was the San Joaquin Valley flourished ?
+What is the Grand 1401 ?
+What is the Grand 1401 ?
+What is the name of the burned burned down ?
+In what year was Fulton Street converted into one of Fulton Fresno ?
+Where is the densest collection of historic buildings located ?
+What is the name of the only public art pieces in the world ?
+What is the purpose of the public art pieces ?
+What is the purpose of the public art pieces ?
+Where is the neighborhood of Sunnyside located ?
+What are the major thoroughfares in Cork ?
+When was Largely developed ?
+What is the City of Fresno called ?
+Who designed the Sunnyside Country Club ?
+Where is the Tower District located ?
+In what year was the theater built ?
+What is the theater refers to ?
+What is the name of the Tower District ?
+How far is the Tower District ?
+When did the Tower Theatre begin ?
+When did the Tower Theatre begin ?
+Where is Roger Rocka Players located ?
+What is the name of the Dinner Theater & Good Company Players ?
+Where did Audra McDonald perform ?
+How many theater restaurants are in Mexico City ?
+How large is the neighborhood of the restaurants ?
+What is the attractive area for restaurant ?
+What is the center of Fresno 's LGBT and hipster Communities ?
+What is the center of Fresno 's local punk community ?
+How long is the area of St. Barts ?
+What type of houses are used by Fresno architects ?
+What is the residential architecture of the Tower District ?
+When was the area restored ?
+What is the section of the stately homes ?
+Who mapped the Alta Vista Tract ?
+In what year did Billings & Meyering become a tract ?
+How many homes did the tract have ?
+Who was the right of the streetcar ?
+What is the " West Side " of Fresno known as ?
+Where is the neighborhood located ?
+What is the center of Fresno ?
+What is another name for Mexican and Asian - American ?
+What is the oldest neighborhoods in the city ?
+Who named Kearney Boulevard ?
+What type of trees is Kearney Boulevard lined with ?
+Where is the half neighborhood of Kearney Boulevard located ?
+What is the name of the Fresno City Council ?
+What was the isolated subdivision called ?
+When was the public housing developments built ?
+Where is the modern shopping center located ?
+What is the name of the new section 8 apartments ?
+Where is the Fresno Chandler Executive Airport located ?
+How many retail activity does the neighborhood have ?
+Who founded Woodward Park ?
+How many acres is the park ?
+How many people live in the park ?
+How many miles is the Lewis S. Eaton trail system ?
+When is the park open ?
+In what year was Formed first used ?
+What is the name of Sierra Sky Park 's aviation community ?
+What is the first aviation community to be built ?
+What is Sierra Sky Park Airport known for ?
+What is the first aviation community ?
+What type of summers is Fresno ?
+Which month is the warmest month ?
+What is the average precipitation in Guinea - Bissau ?
+Where is most of the wind rose ?
+What months is the increased presence of southeastern wind directions ?
+What is the official record for Fresno ?
+When was the official record for Fresno set ?
+When was Tucson 's rain year ?
+What is the heaviest snowfall in Hyderabad ?
+What is the most rainfall in November of 1885 ?
+What was the population of Fresno in 2010 ?
+What percentage of the racial makeup of Fresno was 245,306 ?
+What is the racial makeup of Fresno ?
+What percentage of the population was Non - Hispanic Whites in 2010 ?
+What is the population density per square mile ?
+How many households had children under the island ?
+What percentage of the population was 30,547 ?
+What is the sex married of couples ?
+What was the average family size in Mexico City ?
+What is the average household size ?
+How many people lived in the census of 2000 ?
+How many housing units are there in Atlantic City ?
+What percentage of the population is Black ?
+How much of the city 's Asian population is Asian ?
+What is the population density per square mile ?
+What is the Federal Communications Commission ?
+What was the name of the first Fresno television station ?
+When did KMJ - TV debut ?
+What is the NBC affiliate called ?
+What is the name of the CBS affiliate ?
+What is another name for Fresno ?
+What is the State Route 168 ?
+What is another name for the State of State ?
+Where is State Route Freeway located ?
+What is the largest U.S. city ?
+When was the Interstate Highway System created ?
+What is the Interstate Highway System called ?
+Who operates rail service ?
+Where is the Santa Fe Railroad Depot located ?
+Where is the Bakersfield - Stockton mainlines located ?
+What city is California High Speed Rail ?
+Where did the Black Death originate ?
+What is the Black Death ?
+What percentage of Europe 's population is the Black Death ?
+When did the world 's world population end ?
+When did the plague begin in Europe ?
+What is the enzootic ?
+Where did Nestorian graves originate ?
+Where did the great waves of the plague originate ?
+When did the famine begin ?
+How many Chinese Asians died in Constantinople ?
+What traders first used Europe to Europe ?
+Who led the Mongol army ?
+What happened to the Mongol army ?
+Where did the Genoese traders settle into ?
+What contributed to the severity of the Black Death ?
+Where did the disease of Italy occur ?
+What country borders the 1351 ?
+What happened to the plague ?
+What two countries did the disease of Italy spread to ?
+In what year was the ship introduced in Norway ?
+What did the plague cause ?
+In what year did the plague reach Alexandria ?
+What was the plague of Alexandria in Egypt ?
+Where did the city 's residents flee to ?
+What was the name of the book atra mors ?
+What was the Latin name for the epidemic ?
+Who first recorded the book atra mors ?
+When was the Black Death ?
+From what continent did the name of the Marshall Islands originate ?
+What was the name of the king ?
+Who blamed the heavens in Paris ?
+What did the heavens cause ?
+What is the theory called ?
+What is the plague theory called ?
+What was the name of the pathogen that visited the 19th century ?
+Who was the French - Swiss bacteriologist ?
+How was the mechanism established ?
+What was the bubonic plague dependent on ?
+Who wrote about the ' Great Pestilence ' ?
+What did Francis Aidan call the Great Pestilence ?
+In what year was the bubonic plague ?
+What animal did the bubonic cause ?
+What plague was prevalent in the Eastern Roman Empire ?
+What is the mortality rate of the bubonic plague ?
+What is the mortality rate of bubonic ?
+What percentage of the bubonic plague die within eight days ?
+What is the mortality rate of Pneumonic plague ?
+What is another name for asthma ?
+When was the open - access journal PLoS published ?
+What was the new investigation called ?
+What is the presence of DNA / RNA ?
+What is another name for Y. pestis ?
+What is the purpose of Y. pestis ?
+What is the name of the modern Y. ?
+What happens to the plague of the plague ?
+In what year did the first variant of Marseille begin ?
+When did the first variant of plague occur ?
+How have the Haensch study been done ?
+Where was the Black Death ?
+What was the variant of Y. pestis ?
+In what month and year was the genome published ?
+Who challenged the plague theory ?
+What did the plague theory cause ?
+What happened to the bubonic theory ?
+What did Graham Twigg produce ?
+Who was the author of the Black Death ?
+What is the identification of symptoms ?
+What type of statistics are there ?
+What is the population of the Domesday Book ?
+What are these plague usually extrapolated from ?
+What is the no population of the world ?
+What happened to the rat population ?
+What type of significance was transference ?
+What is the lack of temperatures in the Black Death ?
+What was the spread of the Black Death ?
+How many years was the Black Death ?
+What was the cause of the ?
+What was the cause of Norman Cantor ?
+What are some of the bubonic plague ?
+How many bodies did the Public Health England have ?
+What is the death rate for the Middle East ?
+What is the population of Paris 's population ?
+How many burials are there in Central London ?
+What percentage of the population was uncommon in crowded cities ?
+What type of areas were less vulnerable to contagion ?
+When did the plague begin ?
+When did the plague begin ?
+How many people died in France in the epidemic ?
+What did historians do in England ?
+When was the Black Death ?
+What was the outbreak in 1471 ?
+In what year did the Great Plague occur ?
+How many people died in Paris ?
+Where did the Black Death occur ?
+How many times did Plague last ?
+What is another name for 1629–1631 ?
+In what year did Oslo invade Oslo ?
+How many victims were in Italy in the 17th century ?
+How many people died in Naples in 1656 ?
+What was the population of Seville in 1649 ?
+What countries were killed in the Great Northern War ?
