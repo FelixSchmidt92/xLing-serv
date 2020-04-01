@@ -15,8 +15,9 @@ def generate_questsions(sentence_list):
 
     return generated_questions
 
-def do_translations(sentence_list):
+def do_translations(sentence_list,use_gpu):
     translator = xlingqg.Translator()
+    if use_gpu: translator.translator.cuda()
     translations = []   
     sentence_list = sentence_list
     for sentence in tqdm(sentence_list): 
@@ -33,16 +34,15 @@ def load_file_lines(filepath):
     with open(filepath) as f:
         return f.read().splitlines()        
 
-def evaluate_translation(translate_src, translate_ref):
+def evaluate_translation(translate_src, translate_ref,use_gpu):
     refs = [load_file_lines(translate_ref)]
-    hypos = do_translations(load_file_lines(translate_src)) 
+    hypos = do_translations(load_file_lines(translate_src,use_gpu)) 
     return evaluate(hypos,refs)    
 
 def evaluate_qg(qg_src, qg_ref):
     hypos = generate_questsions(load_file_lines(qg_src)) 
     refs = [ load_file_lines(qg_ref) ]
     return evaluate(hypos,refs)          
-
 
 def main(eval_qg, eval_translate, qg_src, qg_ref, translate_src,translate_ref):
     if eval_qg: 
@@ -58,6 +58,7 @@ def _get_parser():
     parser.add_argument("--translate_ref", type=str, default="./example_data/translate.test.de")
     parser.add_argument("--qg_src", type=str, default="./example_data/qg.test.sentence")
     parser.add_argument("--qg_ref", type=str, default="./example_data/qg.test.question")
+    parser.add_argument("--use_gpu", action="store_true", default=False )
     return parser
 
 if __name__ == '__main__':
