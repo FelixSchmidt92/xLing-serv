@@ -10,7 +10,10 @@ class Translator():
         model_builder = xlingqg.FairseqModelBuilder()  
 
         self.model_config = config_parser.translation_config
-        self.translator = model_builder.build_model(self.model_config)      
+        self.translator = model_builder.build_model(self.model_config) 
+        if self.model_config.gpu == True:
+            self.translator.cuda()
+
 
     """Translates the source sentence with alignments
     

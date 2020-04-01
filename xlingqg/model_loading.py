@@ -9,21 +9,23 @@ PATH_TO_CONFIG = './modelconfig/config.json'
 
 class OnmtModelConfig(object):
 
-    def __init__(self, beam_size, path, replace_unknown, batch_size):
+    def __init__(self, beam_size, path, replace_unknown, batch_size,gpu):
         self.path = path
         self.beam_size = beam_size
         self.replace_unknown = replace_unknown
         self.batch_size = batch_size
+        self.gpu = gpu 
 
 
 class FairseqModelConfig(object):
-    def __init__(self, beam_size, path, checkpoint_filepath, bpe, bpe_codes, path_to_data):
+    def __init__(self, beam_size, path, checkpoint_filepath, bpe, bpe_codes, path_to_data, gpu):
         self.path = path
         self.beam_size = beam_size
         self.checkpoint_filepath = checkpoint_filepath
         self.bpe = bpe
         self.bpe_codes = bpe_codes
         self.path_to_data = path_to_data
+        self.gpu = gpu
 
 
 class ConfigParser(object):
@@ -49,8 +51,10 @@ class ConfigParser(object):
         model_path = os.path.join(model_root_dir,  model_config_opts['model'])
         batch_size = model_config_opts['batch_size']
         replace_unknown = model_config_opts['replace_unknown']
+        gpu = model_config_opts['gpu']
         model_config = OnmtModelConfig(
-            beam_size=model_beam_size, path=model_path, replace_unknown=replace_unknown, batch_size=batch_size)
+            beam_size=model_beam_size, path=model_path, replace_unknown=replace_unknown, 
+            batch_size=batch_size,gpu=gpu)
         return model_config
 
     def _parse_fairseq_model_config(self, model_config_opts, model_root_dir):
@@ -59,10 +63,11 @@ class ConfigParser(object):
         data_path = model_config_opts['path_to_data']
         bpe = model_config_opts['bpe']
         bpe_codes = model_config_opts['bpe_codes']
-    
+        gpu = model_config_opts['gpu']
 
         model_config = FairseqModelConfig(beam_size=model_beam_size, path=model_root_dir, checkpoint_filepath=checkpoint_filepath,
-                                          bpe=bpe, bpe_codes=bpe_codes, path_to_data=data_path)
+                                          bpe=bpe, bpe_codes=bpe_codes, path_to_data=data_path,
+                                          gpu = gpu)
         return model_config
 
 
@@ -99,6 +104,8 @@ class OnmtModelBuilder(object):
         args.append('dummy_src')
         args.append('--block_ngram_repeat')
         args.append('2')
+        args.append('-gpu')
+        args.append(str(model_config.gpu))
         if model_config.replace_unknown: args.append('--replace_unk') 
         model_args = parser.parse_args(args)
         return model_args

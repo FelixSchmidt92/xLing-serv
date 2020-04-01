@@ -5,7 +5,7 @@ from sacremoses import MosesTokenizer, MosesDetokenizer
 from tqdm import tqdm
 
 
-def generate_questsions(sentence_list,use_gpu):
+def generate_questsions(sentence_list):
     qg = xlingqg.QuestionGenerator()
     detokenizer = MosesDetokenizer(lang='en')
     generated_questions = []
@@ -16,10 +16,8 @@ def generate_questsions(sentence_list,use_gpu):
     return generated_questions
 
 
-def do_translations(sentence_list, use_gpu):
+def do_translations(sentence_list):
     translator = xlingqg.Translator()
-    if use_gpu:
-        translator.translator.cuda()
     translations = []
     sentence_list = sentence_list
     for sentence in tqdm(sentence_list):
@@ -35,37 +33,42 @@ def evaluate(hypos, references):
 
 def load_file_lines(filepath):
     with open(filepath) as f:
-        return f.read().splitlines()
+        return f.read().splitlines()[:2]
 
 def write_result(filepath,results):
     with open(filepath, 'w') as f:
         f.write("\n".join(str(result) for result in results))   
 
-def evaluate_translation(translate_src, translate_ref, use_gpu,translate_result):
+def evaluate_translation(translate_src, translate_ref,translate_result):
     refs = [load_file_lines(translate_ref)]
-    hypos = do_translations(load_file_lines(translate_src), use_gpu)
+    hypos = do_translations(load_file_lines(translate_src))
     write_result(translate_result,hypos)
     return evaluate(hypos, refs)
 
-def evaluate_qg(qg_src, qg_ref,use_gpu,qg_result):
-    hypos = generate_questsions(load_file_lines(qg_src),use_gpu)
-    refs = [load_file_lines(qg_ref)]
-    return evaluate(hypos, refs)
+def evaluate_qg(qg_src, qg_ref,qg_result):
+    detokenizer = MosesDetokenizer()
+    hypos = generate_questsions(load_file_lines(qg_src))
+    refs = load_file_lines(qg_ref)
+    refs_detok = []
+    for ref in refs: 
+       refs_detok.append( detokenizer.detokenize([ref]))
+    write_result(qg_result,hypos)   
+    return evaluate(hypos, [refs_detok])
 
 
 def main(eval_qg, eval_translate, qg_src, qg_ref, translate_src, 
-        translate_ref, use_gpu, translate_result, qg_result):
+        translate_ref, translate_result, qg_result):
     if eval_qg:
-        qg_bleu = evaluate_qg(qg_src, qg_ref,use_gpu,qg_result)
+        qg_bleu = evaluate_qg(qg_src, qg_ref,qg_result)
         print("QG-Score: {}".format(qg_bleu.format()))
     if eval_translate:
-        translation_bleu = evaluate_translation(translate_src, translate_ref, use_gpu, translate_result)
+        translation_bleu = evaluate_translation(translate_src, translate_ref, translate_result)
         print("Translate-Score: {}".format(translation_bleu.format()))
 
 
 def _get_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--qg", action="store_true", default=False)
+    parser.add_argument("--qg", action="store_true", default=True)
     parser.add_argument("--translate", action="store_true", default=True)
     parser.add_argument("--translate_src", type=str,
                         default="./example_data/translate.test.en")
@@ -75,7 +78,6 @@ def _get_parser():
                         default="./example_data/qg.test.sentence")
     parser.add_argument("--qg_ref", type=str,
                         default="./example_data/qg.test.question")
-    parser.add_argument("--use_gpu", action="store_true", default=False)
     parser.add_argument("--qg_result", type=str,
                         default="./example_data/qg.pred.question")
     parser.add_argument("--translate_result", type=str,
@@ -88,5 +90,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     main(eval_qg=args.qg, eval_translate=args.translate, qg_src=args.qg_src,
          qg_ref=args.qg_ref, translate_src=args.translate_src,
-         translate_ref=args.translate_ref, use_gpu=args.use_gpu,
-         translate_result=args.translate_result, qg_result=args.qg_result)
+         translate_ref=args.translate_ref, translate_result=args.translate_result, qg_result=args.qg_result)

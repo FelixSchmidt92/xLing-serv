@@ -5,12 +5,14 @@
         "beam_size": 5,
         "bpe": "fastbpe",
         "bpe_codes":"bpecodes",
-        "path_to_data":"."
+        "path_to_data":".",
+        "gpu":true
     },
     "qg_model": {
         "model": "qg_copy_attn_epoch10.pt",
         "beam_size": 5,
         "replace_unknown":true,
-        "batch_size":30
+        "batch_size":30,
+        "gpu":-1
     }
 }
