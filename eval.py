@@ -80,7 +80,7 @@ def _get_parser():
     parser.add_argument("--qg_result", type=str,
                         default="./example_data/qg.pred.question")
     parser.add_argument("--translate_result", type=str,
-                        default="./example_data/translate.pred.question")
+                        default="./example_data/translate.pred.de")
     return parser
 
 
