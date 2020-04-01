@@ -68,8 +68,8 @@ def main(eval_qg, eval_translate, qg_src, qg_ref, translate_src,
 
 def _get_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--qg", action="store_true", default=True)
-    parser.add_argument("--translate", action="store_true", default=True)
+    parser.add_argument("--qg", action="store_true", default=False)
+    parser.add_argument("--translate", action="store_true", default=False)
     parser.add_argument("--translate_src", type=str,
                         default="./example_data/translate.test.en")
     parser.add_argument("--translate_ref", type=str,
