@@ -33,7 +33,7 @@ def evaluate(hypos, references):
 
 def load_file_lines(filepath):
     with open(filepath) as f:
-        return f.read().splitlines()[:2]
+        return f.read().splitlines()
 
 def write_result(filepath,results):
     with open(filepath, 'w') as f:
