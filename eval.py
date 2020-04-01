@@ -26,7 +26,6 @@ def do_translations(sentence_list, use_gpu):
         sentence_without_bpe = translator.translator.remove_bpe(sentence)
         translation = translator.translate_sentence(sentence_without_bpe)
         translation = translator.translator.tokenize(translation)
-        translation = translator.translator.apply_bpe(translation)
         translations.append(translation)
     return translations
 
@@ -71,7 +70,7 @@ def _get_parser():
     parser.add_argument("--translate_src", type=str,
                         default="./example_data/translate.test.en")
     parser.add_argument("--translate_ref", type=str,
-                        default="./example_data/translate.test.bpe.de")
+                        default="./example_data/translate.test.de")
     parser.add_argument("--qg_src", type=str,
                         default="./example_data/qg.test.sentence")
     parser.add_argument("--qg_ref", type=str,
