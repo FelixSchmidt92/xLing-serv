@@ -10,3 +10,6 @@ Increase the maximum Memory docker can consume in the settings of docker on your
 docker build -t xqg .
 docker run -p 5000:5000 xqg
 ````
+
+# evaluation
+For the evaluation the notebook in this repository can be used.
