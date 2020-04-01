@@ -25,18 +25,18 @@ def do_translations(sentence_list, use_gpu):
     for sentence in tqdm(sentence_list):
         sentence_without_bpe = translator.translator.remove_bpe(sentence)
         translation = translator.translate_sentence(sentence_without_bpe)
-        translations.append(translator.translator.tokenize(translation))
+        translation = translator.translator.tokenize(translation)
+        translation = translator.translator.apply_bpe(translation)
+        translations.append(translation)
     return translations
-
 
 def evaluate(hypos, references):
     bleu = sacrebleu.corpus_bleu(hypos, references)
     return bleu
 
-
 def load_file_lines(filepath):
     with open(filepath) as f:
-        return f.read().splitlines()
+        return f.read().splitlines()[:100]
 
 def write_result(filepath,results):
     with open(filepath, 'w') as f:
@@ -71,7 +71,7 @@ def _get_parser():
     parser.add_argument("--translate_src", type=str,
                         default="./example_data/translate.test.en")
     parser.add_argument("--translate_ref", type=str,
-                        default="./example_data/translate.test.de")
+                        default="./example_data/translate.test.bpe.de")
     parser.add_argument("--qg_src", type=str,
                         default="./example_data/qg.test.sentence")
     parser.add_argument("--qg_ref", type=str,
