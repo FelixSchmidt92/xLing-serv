@@ -21,7 +21,7 @@ def do_translations(sentence_list, use_gpu):
     if use_gpu:
         translator.translator.cuda()
     translations = []
-    sentence_list = sentence_list[:2]
+    sentence_list = sentence_list
     for sentence in tqdm(sentence_list):
         sentence_without_bpe = translator.translator.remove_bpe(sentence)
         translation = translator.translate_sentence(sentence_without_bpe)
