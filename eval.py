@@ -75,9 +75,9 @@ def _get_parser():
     parser.add_argument("--translate_ref", type=str,
                         default="./example_data/translate.test.de")
     parser.add_argument("--qg_src", type=str,
-                        default="./example_data/qg.test.sentence")
+                        default="./example_data/preprocessedtest.sentence")
     parser.add_argument("--qg_ref", type=str,
-                        default="./example_data/qg.test.question")
+                        default="./example_data/preprocessedtest.question")
     parser.add_argument("--qg_result", type=str,
                         default="./example_data/qg.pred.question")
     parser.add_argument("--translate_result", type=str,
