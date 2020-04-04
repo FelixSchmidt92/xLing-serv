@@ -72,5 +72,9 @@ docker build -t xqg .
 docker run -p 5000:5000 xqg
 ````
 
+# Translation and Question Generation Training
+- Translation Model Training: https://github.com/FelixSchmidt92/nmt_training
+- QG-Model Training: https://github.com/FelixSchmidt92/qg_training
+
 # evaluation
 For the evaluation of the pretrained models the colab notebook in this repository can be used.  
