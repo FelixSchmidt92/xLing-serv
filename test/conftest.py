@@ -14,3 +14,8 @@ def question_generator():
 def cross_lingual_qg():
     import xlingqg.cross_lingual_qg
     return xlingqg.cross_lingual_qg.CrossLingualQuestionGenerator()
+
+@pytest.fixture
+def preprocessor():
+    import xlingqg.preprocessing
+    return xlingqg.preprocessing.Prepocessor()    

@@ -3,6 +3,12 @@ FROM pytorch/pytorch:latest
 COPY ./ xlingqg
 WORKDIR xlingqg
 RUN pip install -r requirements.txt
+RUN python -m spacy download en_core_web_lg
+RUN git clone https://github.com/huggingface/neuralcoref.git
+WORKDIR neuralcoref
+RUN pip install -r requirements.txt
+RUN pip install -e .
+WORKDIR ..
 
 RUN mkdir models 
 WORKDIR models
