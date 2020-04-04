@@ -44,7 +44,7 @@ cd ..
 ## Generate questions
 start the server on localhost port 5000
 
-`````
+````
 python app.py --host 0.0.0.0 --port 5000
 ````
 
@@ -60,6 +60,8 @@ Response:
 [{"answer":"Roger Federer","question":"Wer wurde 1981 in der Schweiz geboren?","sentence":"Roger Federer was born in Switzerland in 1981."},{"answer":"in der Schweiz","question":"Wo wurde Roger Federer geboren?","sentence":"Roger Federer was born in Switzerland in 1981."},{"answer":"1981","question":"Wann wurde Roger Federer geboren?","sentence":"Roger Federer was born in Switzerland in 1981."},{"answer":"20 Titel","question":"Wie viele Titel hat Roger Federer gewonnen?","sentence":"Roger Federer has won 20 titles."},{"answer":"Roger Federer","question":"Wer hat 20 Titel gewonnen?","sentence":"Roger Federer has won 20 titles."},{"answer":"ein Tennisspieler","question":"Welche Art von Spieler ist Roger Federer?","sentence":"Roger Federer is a tennis player."},{"answer":"Roger Federer","question":"Wer ist Tennisspieler?","sentence":"Roger Federer is a tennis player."}]
 ````
 
+## Generate on GPU
+In order to genereate on GPU change the properties gpu in modelconfig/config.json for translation model to true and for question generation model to 0
 
 
 # build image and run 
@@ -71,4 +73,4 @@ docker run -p 5000:5000 xqg
 ````
 
 # evaluation
-For the evaluation of the pretrained models the colab notebook in this repository can be used.
+For the evaluation of the pretrained models the colab notebook in this repository can be used.  
