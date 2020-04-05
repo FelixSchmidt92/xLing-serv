@@ -38,13 +38,13 @@ def main():
     answer_selector = xlingqg.answer_selection.AnswerSelector()
 
     paras_with_qas=[]    
-    for para in tqdm(selected_paragraphs[:1]):    
+    for para in tqdm(selected_paragraphs):    
         doc = preprocessor.preprocess(para)
         answers = answer_selector.select_answers(doc)
 
         sentence_qas = []
 
-        for sentence_with_answers in answers[:1]:
+        for sentence_with_answers in answers:
             for answer_indices in sentence_with_answers[1]:
                 sentence = sentence_with_answers[0].text
                 question = qg.generate_cross_lingual_question(sentence, answer_indices)
