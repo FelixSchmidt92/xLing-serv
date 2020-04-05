@@ -1,7 +1,4 @@
-Who was born in Switzerland in 1981 ?
-Where was Roger Federer born ?
-When was Roger Federer born ?
-How many titles has Roger Federer won ?
-Who has won 20 titles ?
-What type of player is Roger Federer ?
-Who is a tennis player ?
+What is divided into the main library ?
+What is the library system called ?
+Where is the library system divided ?
+What is the library system divided between ?
