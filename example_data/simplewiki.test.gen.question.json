@@ -1,0 +1,1257 @@
+[
+    {
+        "name": "Roger Federer",
+        "paragraph": "Roger Federer was born in 1981 in Basel and is a professional Swiss tennis player. As of February 2020, he is ranked number 3 in the world. Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks. He also holds the record for most weeks at the top spot in a row, with 237 weeks. Many experts believe that Federer is the greatest tennis player of all time. He has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open. In 2007, he equalled the record for the most titles in a row at Wimbledon set by Björn Borg. He won a gold medal at the 2008 Summer Olympics and a silver medal at the 2012 Summer Olympics. He was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018. Federer's first language is Swiss-German and he speaks English, German and French very well. He also speaks some Swedish and Italian. His wife is former tennis player Mirka Vavrinec. After Wimbledon 2009, he became a father of twin girls who were named Charlene Riva and Myla Rose. In May 2014 he became a father again, to twin boys named Leo and Lenny.",
+        "sqas": [
+            {
+                "sentence": "Roger Federer was born in 1981 in Basel and is a professional Swiss tennis player.",
+                "question": "Welche Art von Spieler ist Roger Federer?",
+                "answer": "ein professioneller Schweizer Tennisspieler"
+            },
+            {
+                "sentence": "Roger Federer was born in 1981 in Basel and is a professional Swiss tennis player.",
+                "question": "Wer wurde 1981 geboren?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "Roger Federer was born in 1981 in Basel and is a professional Swiss tennis player.",
+                "question": "In welchem Jahr wurde Roger Federer geboren?",
+                "answer": "1981 in"
+            },
+            {
+                "sentence": "Roger Federer was born in 1981 in Basel and is a professional Swiss tennis player.",
+                "question": "Wo wurde Roger Federer geboren?",
+                "answer": "Basel"
+            },
+            {
+                "sentence": "As of February 2020, Roger Federer is ranked number 3 in the world.",
+                "question": "Wer rangierte weltweit an der Nummer 3?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "As of February 2020, Roger Federer is ranked number 3 in the world.",
+                "question": "Wann stand Roger Federer weltweit an erster Stelle?",
+                "answer": "Seit Februar 2020"
+            },
+            {
+                "sentence": "As of February 2020, Roger Federer is ranked number 3 in the world.",
+                "question": "Wann stand Roger Federer weltweit an erster Stelle?",
+                "answer": "Februar 2020"
+            },
+            {
+                "sentence": "As of February 2020, Roger Federer is ranked number 3 in the world.",
+                "question": "Wo ist Roger Federer zu Hause?",
+                "answer": "weltweit"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wofür ist Roger Federer bekannt?",
+                "answer": "mit den Rekord meisten Wochen"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wer hält den Rekord für die meisten Wochen?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wie lange verdient Roger Federer?",
+                "answer": "meisten Wochen"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wie lange verdient Roger Federer den Rekord?",
+                "answer": "Wochen"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Was ist die meisten Wochen in der Welt?",
+                "answer": "für die an der Spitze der Weltrangliste"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wo trifft sich Roger Federer?",
+                "answer": "der Weltrangliste"
+            },
+            {
+                "sentence": "Roger Federer holds the record for the most number of weeks at the top spot in the world ranking, with 310 weeks.",
+                "question": "Wie lange verdient Roger Federer?",
+                "answer": "310 Wochen"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wie lange verdient Roger Federer an der Spitze?",
+                "answer": "den Rekord für die meisten Wochen"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wer hält den Rekord für die meisten Wochen?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wie lange verdient Roger Federer an der Spitze?",
+                "answer": "für die meisten Wochen"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wo trifft sich Roger Federer?",
+                "answer": "in Folge an der Spitze"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wo trifft sich Roger Federer?",
+                "answer": "in Folge an der"
+            },
+            {
+                "sentence": "Roger Federer also holds the record for most weeks at the top spot in a row, with 237 weeks.",
+                "question": "Wie lange dauert der Rekord von Roger Federer?",
+                "answer": "mit 237 Wochen"
+            },
+            {
+                "sentence": "Many experts believe that Roger Federer is the greatest tennis player of all time.",
+                "question": "Wofür ist Roger Federer bekannt?",
+                "answer": "Federer der größte Tennisspieler aller"
+            },
+            {
+                "sentence": "Many experts believe that Roger Federer is the greatest tennis player of all time.",
+                "question": "Wer ist der größte Tennisspieler aller Zeiten?",
+                "answer": "&quot; Viele"
+            },
+            {
+                "sentence": "Many experts believe that Roger Federer is the greatest tennis player of all time.",
+                "question": "Wer ist der größte Tennisspieler aller Zeiten?",
+                "answer": "dass Roger"
+            },
+            {
+                "sentence": "Many experts believe that Roger Federer is the greatest tennis player of all time.",
+                "question": "Was ist der größte Tennisspieler in Roger Federer?",
+                "answer": "Tennisspieler aller"
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wie viele Titel hat Roger Federer gewonnen?",
+                "answer": "hat 20 Grand Slam Singles gewonnen : Sechs bei der Australian Open , eins bei der French Open , acht bei Wimbledon und fünf bei der U.S."
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wer gewann 20 Grand Slam Singles?",
+                "answer": "&quot; Roger"
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wo ist Roger Federer zu Hause?",
+                "answer": "Sechs bei der Australian"
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wo befindet sich das australische Open?",
+                "answer": "eins bei der French"
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wo befindet sich das australische Open?",
+                "answer": "acht bei"
+            },
+            {
+                "sentence": "Roger Federer has won 20 Grand Slam singles titles: six at the Australian Open, one at the French Open, eight at Wimbledon and five at the U.S. Open.",
+                "question": "Wo ist Roger Federer zu Hause?",
+                "answer": "fünf bei der U.S."
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Was hat Roger Federer für die meisten Titel getan?",
+                "answer": "den Rekord"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wer erreichte 2007 die meisten Titel?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wer hat den Rekord für die meisten Titel gesetzt?",
+                "answer": "von Björn Borg"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wann hat Roger Federer die meisten Titel gleichgesetzt?",
+                "answer": "2007"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wozu hat Roger Federer den Rekord gleichgesetzt?",
+                "answer": "für die meisten Titel"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wann hat Roger Federer die meisten Titel gleichgesetzt?",
+                "answer": "in Folge"
+            },
+            {
+                "sentence": "In 2007, Roger Federer equalled the record for the most titles in a row at Wimbledon set by Björn Borg.",
+                "question": "Wo wurde der Rekord für die meisten Titel gegeben?",
+                "answer": "bei Wimbledon"
+            },
+            {
+                "sentence": "Roger Federer won a gold medal at the 2008 Summer Olympics and a silver medal at the 2012 Summer Olympics.",
+                "question": "Was hat Roger Federer bei den Olympischen Sommerspielen 2008 gewonnen?",
+                "answer": "eine Goldmedaille"
+            },
+            {
+                "sentence": "Roger Federer won a gold medal at the 2008 Summer Olympics and a silver medal at the 2012 Summer Olympics.",
+                "question": "Wer gewann die Olympischen Sommerspiele 2008?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "Roger Federer won a gold medal at the 2008 Summer Olympics and a silver medal at the 2012 Summer Olympics.",
+                "question": "Wann gewann Roger Federer eine Goldmedaille?",
+                "answer": "bei den Olympischen Sommerspielen 2008 und bei den Olympischen Sommerspielen 2012 eine Silbermedaille"
+            },
+            {
+                "sentence": "Roger Federer won a gold medal at the 2008 Summer Olympics and a silver medal at the 2012 Summer Olympics.",
+                "question": "Wann gewann Roger Federer eine Goldmedaille?",
+                "answer": "den Olympischen Sommerspielen 2012"
+            },
+            {
+                "sentence": "Roger Federer was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018.",
+                "question": "Wer war der Laureus World Sportler des Jahres?",
+                "answer": "&quot; Roger"
+            },
+            {
+                "sentence": "Roger Federer was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018.",
+                "question": "Welches Jahr wurde Roger Federer genannt?",
+                "answer": "Sportsman des"
+            },
+            {
+                "sentence": "Roger Federer was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018.",
+                "question": "Wie viele Jahre wurde Roger Federer benannt?",
+                "answer": "vier Jahre"
+            },
+            {
+                "sentence": "Roger Federer was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018.",
+                "question": "Wann war der Laureus World Sportsman des Jahres?",
+                "answer": "Jahre"
+            },
+            {
+                "sentence": "Roger Federer was named the Laureus World Sportsman of the Year for a record four years in a row, and again in 2018.",
+                "question": "Wann endete Roger Federer?",
+                "answer": "auch"
+            },
+            {
+                "sentence": "Roger Federer's first language is",
+                "question": "Welche Sprache ist Roger Federer?",
+                "answer": "Die von Roger Federer ist"
+            },
+            {
+                "sentence": "Swiss-German and Roger Federer speaks English, German and French very well.",
+                "question": "Was sind zwei Beispiele für Englisch?",
+                "answer": "und Roger sprechen sehr gut Englisch"
+            },
+            {
+                "sentence": "Swiss-German and Roger Federer speaks English, German and French very well.",
+                "question": "Was ist ein weiterer Name für Roger Federer?",
+                "answer": "&quot; Die schweizerisch @-@"
+            },
+            {
+                "sentence": "Roger Federer also speaks some Swedish and Italian.",
+                "question": "Zu welchen Sprachen gehört Roger Federer?",
+                "answer": "einige Schwedisch und Italienisch"
+            },
+            {
+                "sentence": "Roger Federer also speaks some Swedish and Italian.",
+                "question": "Wer spricht Schwedisch und Italienisch?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "Roger Federer wife is former tennis player Mirka Vavrinec.",
+                "question": "Was ist der Job des Roger Federer?",
+                "answer": "ehemalige Tennisspielerin Mirka Vavrinec"
+            },
+            {
+                "sentence": "Roger Federer wife is former tennis player Mirka Vavrinec.",
+                "question": "Wer ist ein Tennisspieler Mirka Vavrinec?",
+                "answer": "Roger Federer Frau"
+            },
+            {
+                "sentence": "After Wimbledon, Roger Federer became a father of twin girls who were named Charlene Riva and Myla Rose.",
+                "question": "Was ist Roger Federer geworden?",
+                "answer": "Federer Vater von zwei Mädchen , die Charlene Riva und Myla Rose genannt"
+            },
+            {
+                "sentence": "After Wimbledon, Roger Federer became a father of twin girls who were named Charlene Riva and Myla Rose.",
+                "question": "Wer wurde Charlene Riva?",
+                "answer": "wurde Roger"
+            },
+            {
+                "sentence": "After Wimbledon, Roger Federer became a father of twin girls who were named Charlene Riva and Myla Rose.",
+                "question": "Was war der Name des Vaters von Roger Federer?",
+                "answer": "Mädchen ,"
+            },
+            {
+                "sentence": "After Wimbledon, Roger Federer became a father of twin girls who were named Charlene Riva and Myla Rose.",
+                "question": "Wann wurde Roger Federer Charlene?",
+                "answer": "&quot; Nach"
+            },
+            {
+                "sentence": "After Wimbledon, Roger Federer became a father of twin girls who were named Charlene Riva and Myla Rose.",
+                "question": "Was ist Roger Federer geworden?",
+                "answer": "Vater von zwei Mädchen , die Charlene Riva und Myla Rose genannt"
+            },
+            {
+                "sentence": "In May 2014 Roger Federer became a father again, to twin boys named Leo and Lenny.",
+                "question": "Was ist Roger Federer geworden?",
+                "answer": "Vater"
+            },
+            {
+                "sentence": "In May 2014 Roger Federer became a father again, to twin boys named Leo and Lenny.",
+                "question": "Wer war der Vater von Leo und Lenny?",
+                "answer": "Roger Federer"
+            },
+            {
+                "sentence": "In May 2014 Roger Federer became a father again, to twin boys named Leo and Lenny.",
+                "question": "Wann wurde Roger Federer Vater?",
+                "answer": "Im Mai 2014"
+            },
+            {
+                "sentence": "In May 2014 Roger Federer became a father again, to twin boys named Leo and Lenny.",
+                "question": "Was war der Name des Vaters von Roger Federer?",
+                "answer": "von zwei Jungen namens Leo und Lenny"
+            }
+        ]
+    },
+    {
+        "name": "Pope John Paul II",
+        "paragraph": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005. He was the second longest-serving pope in history. As a Pole, he was the first non-Italian pope in 455 years. The last non-Italian pope was Pope Adrian VI, who died in 1523. He is the first ever pope to visit the White House, and a mosque. He traveled more than any other pope before him, visiting many of the countries of the world. He is also famous for starting the annual World Youth Day. After he was beatified, his title was changed to Blessed John Paul II. John Paul II was canonized by Pope Francis on April 27, 2014 which means that the Polish Pope is now known as Saint John Paul II.",
+        "sqas": [
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Wer war der geborene Papst der katholischen Kirche?",
+                "answer": ", geboren Karol"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Wer war der König von Johannes Paul?",
+                "answer": "&quot; Der Papst Johannes Paul"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Welche Position hatte Johannes Paul II.?",
+                "answer": "war der 26 . Papst"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Was war der 26. Papst?",
+                "answer": "26 . Papst"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Wann war der 26. Papst der katholischen Kirche?",
+                "answer": ", der katholischen Kirche vom"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Was ist mit dem 26. Papst der katholischen Kirche passiert?",
+                "answer": "16 . Oktober 1978 bis zu seinem Tod"
+            },
+            {
+                "sentence": "Pope John Paul II, sometimes called Saint John Paul or John Paul the Great, born Karol Józef Wojtyła, was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2 April 2005.",
+                "question": "Wann ist Papst Paul II. gestorben?",
+                "answer": "bis zu seinem Tod"
+            },
+            {
+                "sentence": "his was the second longest-serving pope in history.",
+                "question": "Was war der Zweck des zweiten Papstes?",
+                "answer": "der zweitlängste Pop- @ servator in"
+            },
+            {
+                "sentence": "his was the second longest-serving pope in history.",
+                "question": "Was war der zweitlängste Pop-@ service in der Geschichte?",
+                "answer": "Er"
+            },
+            {
+                "sentence": "his was the second longest-serving pope in history.",
+                "question": "Was war das zweitlängste Pop-@ service-Team?",
+                "answer": "servator in"
+            },
+            {
+                "sentence": "As a Pole, his was the first non-Italian pope in 455 years.",
+                "question": "Was ist mit den Polen geschehen?",
+                "answer": "455 der erste non Ê- @"
+            },
+            {
+                "sentence": "As a Pole, his was the first non-Italian pope in 455 years.",
+                "question": "Was war die erste non Ê-@ Italian pope?",
+                "answer": "er"
+            },
+            {
+                "sentence": "As a Pole, his was the first non-Italian pope in 455 years.",
+                "question": "Was war die erste non Ê-@ Italian pope?",
+                "answer": "Als Pole"
+            },
+            {
+                "sentence": "As a Pole, his was the first non-Italian pope in 455 years.",
+                "question": "Wie alt war das erste Pop-@ Italian?",
+                "answer": "455 Italian"
+            },
+            {
+                "sentence": "the second longest-serving pope in history was Pope Adrian VI, who died in 1523.",
+                "question": "Wann starb Papst Adrian VI?",
+                "answer": "Geschichte war Papst Adrian VI , 1523"
+            },
+            {
+                "sentence": "the second longest-serving pope in history was Pope Adrian VI, who died in 1523.",
+                "question": "Was ist mit dem zweiten Papst passiert?",
+                "answer": "&quot; Der zweitlängste Papst"
+            },
+            {
+                "sentence": "the second longest-serving pope in history was Pope Adrian VI, who died in 1523.",
+                "question": "In welchem Jahr starb Papst Adrian VI?",
+                "answer": "VI"
+            },
+            {
+                "sentence": "the second longest-serving pope in history was Pope Adrian VI, who died in 1523.",
+                "question": "Wer war der zweitlängste Pop-@ servator in der Geschichte?",
+                "answer": "zweitlängste Papst"
+            },
+            {
+                "sentence": "the second longest-serving pope in history was Pope Adrian VI, who died in 1523.",
+                "question": "In welchem Jahr wurde Papst Adrian VI geboren?",
+                "answer": "1523"
+            },
+            {
+                "sentence": "his is the first the second longest-serving pope in history to visit the White House, and a mosque.",
+                "question": "Was ist die zweitlängste E-Mail an pope?",
+                "answer": "ist der"
+            },
+            {
+                "sentence": "his is the first the second longest-serving pope in history to visit the White House, and a mosque.",
+                "question": "Was ist das erste langlebigste @ serving pope?",
+                "answer": "erste , der das zweitlängste Pop- @ serviert in der Geschichte , um das Weiße Haus zu besuchen ,"
+            },
+            {
+                "sentence": "his is the first the second longest-serving pope in history to visit the White House, and a mosque.",
+                "question": "Was ist die zweitlängste E-Mail an pope?",
+                "answer": "serviert Geschichte , um Haus"
+            },
+            {
+                "sentence": "his is the first the second longest-serving pope in history to visit the White House, and a mosque.",
+                "question": "Was ist das erste langlebigste @ serving pope?",
+                "answer": "&quot;"
+            },
+            {
+                "sentence": "his is the first the second longest-serving pope in history to visit the White House, and a mosque.",
+                "question": "Wo befindet sich das zweitlängste Pop-@ service-Team?",
+                "answer": "@"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Was hat seine Reise getan?",
+                "answer": "mehr als jeder andere Papst"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Was hat sein Papst besucht?",
+                "answer": "vielen Ländern der Welt"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Was hat er mehr gereist als jeder andere Papst?",
+                "answer": "Er"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Was hat er mehr gereist?",
+                "answer": "als jeder andere Papst"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Wann hat er mehr andere Papiere bereist?",
+                "answer": "vor seinem Besuch"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Was hat sein Papst besucht?",
+                "answer": "Ländern der Welt"
+            },
+            {
+                "sentence": "his traveled more than any other pope before his, visiting many of the countries of the world.",
+                "question": "Welches Land besuchte seinen Papst?",
+                "answer": "der Welt"
+            },
+            {
+                "sentence": "his is also famous for starting the annual World Youth Day.",
+                "question": "Was ist der Name des weltbekannten Buches der Stadt?",
+                "answer": "des jährlichen Weltjugendtages"
+            },
+            {
+                "sentence": "his is also famous for starting the annual World Youth Day.",
+                "question": "Wozu ist der jährliche Weltjugendtag bekannt?",
+                "answer": "Er"
+            },
+            {
+                "sentence": "his is also famous for starting the annual World Youth Day.",
+                "question": "\"Was ist der Name des Festivals, das für die Premier League berühmt ist ?\"",
+                "answer": "für den Beginn des jährlichen Weltjugendtages"
+            },
+            {
+                "sentence": "After his was beatified, his title was changed to Pope John Paul II.",
+                "question": "Was war der Name von Napoleons Titel?",
+                "answer": "seiner"
+            },
+            {
+                "sentence": "After his was beatified, his title was changed to Pope John Paul II.",
+                "question": "Was wurde dem Papst entgegengebracht?",
+                "answer": "sein Titel"
+            },
+            {
+                "sentence": "After his was beatified, his title was changed to Pope John Paul II.",
+                "question": "Wer war der Titel des Titels von Chopin Passaapos;?",
+                "answer": "in Papst Johannes Paul II."
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Wer wurde von Papst Francis kanonisiert?",
+                "answer": "&quot; Der Papst Johannes Paul"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Wer hat Papst Johannes II kanonisiert?",
+                "answer": "wurde April 2014 von"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Was ist der Name des Papstes 2014?",
+                "answer": "kanonisiert"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Was ist der Zweck von Johannes Paul II?",
+                "answer": ", dass der zweitlängste"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Wann wurde Papst Johannes II kanonisiert?",
+                "answer": "am 27 . Francis"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Was ist die zweitlängste E-Mail an pope?",
+                "answer": "der zweitlängste"
+            },
+            {
+                "sentence": "Pope John Paul II was canonized by Pope Francis on April 27, 2014 which means that the second longest-serving pope in history is now known as Saint John Paul II.",
+                "question": "Wer ist der zweitlängste Pop-@ service-Benutzer?",
+                "answer": "der Geschichte heute als Heiliger Paul"
+            }
+        ]
+    },
+    {
+        "name": "Red Hot Chili Peppers",
+        "paragraph": "Red Hot Chili Peppers are an American rock band. The band started in 1983 in Los Angeles, California. The state of California has been a theme in many of their songs. The members of the band are singer Anthony Kiedis, bass guitarist Flea, guitarist Josh Klinghoffer, and drummer Chad Smith. The Red Hot Chili Peppers have released eleven studio albums. Their early albums were a mix of Rock and Funk, and were not very successful. The band's membership changed several times during this period, but Kiedis and Flea have been with the band since it started. When Frusciante and Smith joined in 1989, Red Hot Chili Peppers' next album, Mother's Milk, was successful. It was the band's first album to appear on the Billboard music chart. While Red Hot Chili Peppers were on tour in 1992 after their fifth and most successful album, Blood Sugar Sex Magik, Frusciante left the band because of a drug addiction.",
+        "sqas": [
+            {
+                "sentence": "The Red Hot Chili Peppers are an American rock band.",
+                "question": "Was sind die Red Hot Chili Pepper?",
+                "answer": "eine amerikanische Rockband"
+            },
+            {
+                "sentence": "The Red Hot Chili Peppers are an American rock band.",
+                "question": "Was ist die amerikanische Rockband?",
+                "answer": "Die Red Hot Chili Peppers"
+            },
+            {
+                "sentence": "an American rock band started in 1983 in Los Angeles, California.",
+                "question": "Welche Art von Musik begann 1983?",
+                "answer": "&quot; Eine amerikanische"
+            },
+            {
+                "sentence": "an American rock band started in 1983 in Los Angeles, California.",
+                "question": "Wann begann die amerikanische Rockband?",
+                "answer": "begann"
+            },
+            {
+                "sentence": "an American rock band started in 1983 in Los Angeles, California.",
+                "question": "Wo hat die amerikanische Rockband angefangen?",
+                "answer": "1983 in Los Angeles ,"
+            },
+            {
+                "sentence": "The state of California has been a theme in many of an American rock band songs.",
+                "question": "Was ist der Zustand Kaliforniens?",
+                "answer": "ein Thema in vielen amerikanischen Rockband Songs"
+            },
+            {
+                "sentence": "The state of California has been a theme in many of an American rock band songs.",
+                "question": "Was war ein Thema in vielen amerikanischen Rockband?",
+                "answer": "Der Bundesstaat Kalifornien"
+            },
+            {
+                "sentence": "The state of California has been a theme in many of an American rock band songs.",
+                "question": "Welcher Staat war ein Thema in vielen amerikanischen Rockband?",
+                "answer": "Kalifornien"
+            },
+            {
+                "sentence": "The state of California has been a theme in many of an American rock band songs.",
+                "question": "Wo ist der Staat Kalifornien ein Thema?",
+                "answer": "in vielen amerikanischen Rockband Songs"
+            },
+            {
+                "sentence": "The state of California has been a theme in many of an American rock band songs.",
+                "question": "Worin besteht das Thema des Staates Kalifornien?",
+                "answer": "amerikanischen Rockband Songs"
+            },
+            {
+                "sentence": "The members of an American rock band are singer Anthony Kiedis, bass guitarist Flea, guitarist Josh Klinghoffer, and drummer Chad Smith.",
+                "question": "Wer sind die Mitglieder einer amerikanischen Rockband?",
+                "answer": "sind Sänger Anthony Kiedis , Bassgitarrist Flea , Gitarrist Josh Klinghoffer und Schlagzeuger Chad"
+            },
+            {
+                "sentence": "The members of an American rock band are singer Anthony Kiedis, bass guitarist Flea, guitarist Josh Klinghoffer, and drummer Chad Smith.",
+                "question": "Was ist Sängerin Anthony Kiedis?",
+                "answer": "&quot; Die Mitglieder einer amerikanischen"
+            },
+            {
+                "sentence": "The members of an American rock band are singer Anthony Kiedis, bass guitarist Flea, guitarist Josh Klinghoffer, and drummer Chad Smith.",
+                "question": "Welche Art von Musik ist Anthony Kiedis?",
+                "answer": "Mitglieder einer amerikanischen"
+            },
+            {
+                "sentence": "The Red Hot Chili Peppers have released eleven studio albums.",
+                "question": "Wie viele Alben wurden von Red Hot Chili Peppers veröffentlicht?",
+                "answer": "elf Studio"
+            },
+            {
+                "sentence": "The Red Hot Chili Peppers have released eleven studio albums.",
+                "question": "Was haben elf Studio-Alben veröffentlicht?",
+                "answer": "Die Red Hot Chili Peppers"
+            },
+            {
+                "sentence": "eleven studio albums were a mix of Rock and Funk, and were not very successful.",
+                "question": "Was waren die elf Studio-Alben?",
+                "answer": "Alben waren ein Mix aus Rock"
+            },
+            {
+                "sentence": "eleven studio albums were a mix of Rock and Funk, and were not very successful.",
+                "question": "Wie viele Studio-Alben waren eine Mischung aus Rock und Funk?",
+                "answer": "Elf Studio"
+            },
+            {
+                "sentence": "eleven studio albums were a mix of Rock and Funk, and were not very successful.",
+                "question": "Was war der Name der Studio-Alben?",
+                "answer": "ein Mix aus Rock"
+            },
+            {
+                "sentence": "an American rock band's membership changed several times during this period, but Kiedis and Flea have been with an American rock band since The band's membership started.",
+                "question": "Welche Mitgliedschaft hatte die Band?",
+                "answer": "&quot; Eine amerikanische Rockband"
+            },
+            {
+                "sentence": "an American rock band's membership changed several times during this period, but Kiedis and Flea have been with an American rock band since The band's membership started.",
+                "question": "Was war die amerikanische Rockband?",
+                "answer": "mehrmals , aber"
+            },
+            {
+                "sentence": "an American rock band's membership changed several times during this period, but Kiedis and Flea have been with an American rock band since The band's membership started.",
+                "question": "Was ist der Name der amerikanischen Rockband?",
+                "answer": "waren amerikanischen Rockband , seit die"
+            },
+            {
+                "sentence": "an American rock band's membership changed several times during this period, but Kiedis and Flea have been with an American rock band since The band's membership started.",
+                "question": "Wann hat sich die amerikanische Rockband verändert?",
+                "answer": "sich Zeit"
+            },
+            {
+                "sentence": "an American rock band's membership changed several times during this period, but Kiedis and Flea have been with an American rock band since The band's membership started.",
+                "question": "Was ist die amerikanische Rockband?",
+                "answer": "Flea mit einer"
+            },
+            {
+                "sentence": "When Frusciante and Smith joined in 1989, Red Hot Chili Peppers' next album, Mother's Milk, was successful.",
+                "question": "Wer ist Frau Milk beigetreten?",
+                "answer": "Als Frusciante und"
+            },
+            {
+                "sentence": "When Frusciante and Smith joined in 1989, Red Hot Chili Peppers' next album, Mother's Milk, was successful.",
+                "question": "Was war der Name des nächsten Albums?",
+                "answer": "&quot; Als Frusciante und Smith 1989 beigetreten sind war Red Hot Chili Pepapos ; das nächste Album"
+            },
+            {
+                "sentence": "When Frusciante and Smith joined in 1989, Red Hot Chili Peppers' next album, Mother's Milk, was successful.",
+                "question": "Wann traten Frusciante und Smith dem nächsten Album bei?",
+                "answer": "Smith"
+            },
+            {
+                "sentence": "It was an American rock band's first album to appear on the Billboard music chart.",
+                "question": "Was hieß Königin Aposs Band?",
+                "answer": "war ein amerikanisches Rockband"
+            },
+            {
+                "sentence": "It was an American rock band's first album to appear on the Billboard music chart.",
+                "question": "Was war das amerikanische Rockband Album?",
+                "answer": "Album , das auf dem chart"
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "Was war der Name des Albums Frusciante?",
+                "answer": "verließ eine amerikanische"
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "Was war der Name von Blood Sugar Sex Maisco?",
+                "answer": "Während Red Hot Chili"
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "Was war der Name des Albums Blood Sugar Sex Maisco?",
+                "answer": ","
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "Wo lag Red Hot Chili Peppers?",
+                "answer": "auf"
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "In welchem Jahr begannen Red Hot Chili Peppers?",
+                "answer": "Peppers"
+            },
+            {
+                "sentence": "While Red Hot Chili Peppers were on tour in 1992 after Red Hot Chili Peppers fifth and most successful album, Blood Sugar Sex Magik, Frusciante left an American rock band because of a drug addiction.",
+                "question": "Was war die amerikanische Rockband?",
+                "answer": "Rockband wegen einer"
+            }
+        ]
+    },
+    {
+        "name": "American Airlines Flight 11",
+        "paragraph": "American Airlines Flight 11 was the first hijacked airplane of the September 11 attacks. It crashed into the North Tower of the World Trade Center. The American Airlines airplane was a Boeing 767. It was scheduled to fly from Logan International Airport in Boston to Los Angeles International Airport. Fifteen minutes after takeoff, the hijackers forced their way into the cockpit. One of the hijackers was a trained pilot. He took the controls of the aircraft and flew it into the North Tower. The hijackers were members of the terrorist group Al-Qaeda. All 92 people on the airplane died in the crash—11 crew members and 81 passengers; 5 of them were hijackers. The time of the crash was 08:46 Eastern Daylight Time. Many people in the street saw the crash. It was also recorded on movie by French moviemakers. The crash, and the fire that started right after the crash, made the North Tower collapse. The attack killed and hurt thousands of people.",
+        "sqas": [
+            {
+                "sentence": "American Airlines Flight 11 was the first hijacked airplane of the September 11 attacks.",
+                "question": "Was war der Flug der American Airlines 11?",
+                "answer": "das erste entführte Flugzeug der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "American Airlines Flight 11 was the first hijacked airplane of the September 11 attacks.",
+                "question": "Was war das erste gekapselte Flugzeug?",
+                "answer": "American Airlines Flight 11"
+            },
+            {
+                "sentence": "American Airlines Flight 11 was the first hijacked airplane of the September 11 attacks.",
+                "question": "Wann war das erste gekapselte Flugzeug?",
+                "answer": "der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "American Airlines Flight 11 crashed into the North Tower of the World Trade Center.",
+                "question": "Was ist in das North Tower Center gestürzt?",
+                "answer": "American Airlines Flight 11"
+            },
+            {
+                "sentence": "American Airlines Flight 11 crashed into the North Tower of the World Trade Center.",
+                "question": "Wo wurde der Flug 11 der American Airlines abgestürzt?",
+                "answer": "in den Nordturm des World Trade Center"
+            },
+            {
+                "sentence": "American Airlines Flight 11 crashed into the North Tower of the World Trade Center.",
+                "question": "Wo wurde der Flug 11 der American Airlines abgestürzt?",
+                "answer": "des World Trade Center"
+            },
+            {
+                "sentence": "the first hijacked airplane of the September 11 attacks was a Boeing 767.",
+                "question": "Was war das erste gekapselte Flugzeug?",
+                "answer": "war ein Boeing"
+            },
+            {
+                "sentence": "the first hijacked airplane of the September 11 attacks was a Boeing 767.",
+                "question": "Was war ein Boeing 767?",
+                "answer": "Das erste entführte Flugzeug der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "the first hijacked airplane of the September 11 attacks was a Boeing 767.",
+                "question": "Was war das erste gekapselte Flugzeug?",
+                "answer": "der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "American Airlines Flight 11 was scheduled to fly from Logan International Airport in Boston to Los Angeles International Airport.",
+                "question": "Was sollte vom internationalen Flughafen Logan fliegen?",
+                "answer": "American Airlines Flight 11"
+            },
+            {
+                "sentence": "American Airlines Flight 11 was scheduled to fly from Logan International Airport in Boston to Los Angeles International Airport.",
+                "question": "Wo sollte die American Airlines Flight 11 fliegen?",
+                "answer": "vom internationalen Flughafen Logan in Boston"
+            },
+            {
+                "sentence": "American Airlines Flight 11 was scheduled to fly from Logan International Airport in Boston to Los Angeles International Airport.",
+                "question": "Wo lag der internationale Flughafen Logan?",
+                "answer": "in Boston"
+            },
+            {
+                "sentence": "American Airlines Flight 11 was scheduled to fly from Logan International Airport in Boston to Los Angeles International Airport.",
+                "question": "Wo lag der internationale Flughafen Logan?",
+                "answer": "internationalen Flughafen Los Angeles"
+            },
+            {
+                "sentence": "Fifteen minutes after takeoff, the hijackers forced the hijackers way into American Airlines Flight 11.",
+                "question": "Wer hat die Entführer angegriffen?",
+                "answer": "die Entführer die"
+            },
+            {
+                "sentence": "Fifteen minutes after takeoff, the hijackers forced the hijackers way into American Airlines Flight 11.",
+                "question": "Wie viele Hijacker hatten die Hijackers?",
+                "answer": ""
+            },
+            {
+                "sentence": "Fifteen minutes after takeoff, the hijackers forced the hijackers way into American Airlines Flight 11.",
+                "question": "Wer zwang den Flug der American Airlines 11?",
+                "answer": "die Entführer"
+            },
+            {
+                "sentence": "Fifteen minutes after takeoff, the hijackers forced the hijackers way into American Airlines Flight 11.",
+                "question": "Wann fanden die Hijackers statt?",
+                "answer": "nach dem Start"
+            },
+            {
+                "sentence": "Fifteen minutes after takeoff, the hijackers forced the hijackers way into American Airlines Flight 11.",
+                "question": "Wo fanden die Hijackers statt?",
+                "answer": "in American Airlines Flight 11"
+            },
+            {
+                "sentence": "One of the hijackers was a trained pilot.",
+                "question": "Wer waren die Entführer?",
+                "answer": "ein ausgebildeter Pilot"
+            },
+            {
+                "sentence": "One of the hijackers was a trained pilot.",
+                "question": "Wer war ein Pilotpilot?",
+                "answer": "Einer der Hijacker"
+            },
+            {
+                "sentence": "One of the hijackers was a trained pilot.",
+                "question": "Wer war ein Pilotpilot?",
+                "answer": "der Hijacker"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Was ist mit einem ausgebildeten Piloten passiert?",
+                "answer": "die Kontrolle über das Flugzeug"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Was hat der ausgebildete Pilot erreicht?",
+                "answer": "die Kontrolle des Flugzeugs"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Wer übernahm die Kontrolle des World Trade Center?",
+                "answer": "Ein ausgebildeter Pilot"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Was wurde von einem ausgebildeten Piloten übernommen?",
+                "answer": "über das Flugzeug"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Worauf hat sich das North Tower Center bewegt?",
+                "answer": "des Flugzeugs"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "Wo sind die Kontrollen der Flugzeuge hineingezogen?",
+                "answer": "in den Nordturm des World Trade Center"
+            },
+            {
+                "sentence": "a trained pilot took the controls of the aircraft and flew the controls of the aircraft into the North Tower of the World Trade Center.",
+                "question": "\"Was ist der Name des Gebäudes, das die Kontrollen angegriffen hat ?\"",
+                "answer": "des World Trade Center"
+            },
+            {
+                "sentence": "the hijackers were members of the terrorist group Al-Qaeda.",
+                "question": "Wer waren die Entführer?",
+                "answer": "Mitglieder der Terroristengruppe Al Dim-"
+            },
+            {
+                "sentence": "the hijackers were members of the terrorist group Al-Qaeda.",
+                "question": "Wer war Mitglied der Terrorgruppe?",
+                "answer": "Die Entführer"
+            },
+            {
+                "sentence": "the hijackers were members of the terrorist group Al-Qaeda.",
+                "question": "Woran waren die Hijacker-Mitglieder?",
+                "answer": "der Terroristengruppe Al Dim-"
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Menschen waren Entführer des Zusammenbruchs?",
+                "answer": "der"
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Menschen starben beim Absturz?",
+                "answer": "Alle 92 Personen auf dem ersten entführten Flugzeug der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Hijacker waren Hijackers?",
+                "answer": "81 Passagiere ; 5"
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Angriffe gab es?",
+                "answer": "auf dem ersten entführten Flugzeug der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Angriffe gab es auf das erste entführte Flugzeug?",
+                "answer": "der Anschläge vom 11 ."
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wann kam es zu den Anschlägen vom 11. September?",
+                "answer": "starben beim Absturz – 11 Besatzungsmitglieder"
+            },
+            {
+                "sentence": "All 92 people on the first hijacked airplane of the September 11 attacks died in the crash—11 crew members and 81 passengers; 5 of the hijackers were hijackers.",
+                "question": "Wie viele Hijacker waren Hijackers?",
+                "answer": "Passagiere ; 5"
+            },
+            {
+                "sentence": "The time of the crash was 08:46 Eastern Daylight Time.",
+                "question": "Was wurde der Absturz genannt?",
+                "answer": "08 : 46 Eastern"
+            },
+            {
+                "sentence": "The time of the crash was 08:46 Eastern Daylight Time.",
+                "question": "Was ist mit dem Absturz passiert?",
+                "answer": "Die Zeit des Absturzes"
+            },
+            {
+                "sentence": "The time of the crash was 08:46 Eastern Daylight Time.",
+                "question": "Was ist mit dem Absturz passiert?",
+                "answer": "des Absturzes"
+            },
+            {
+                "sentence": "Many people in the street saw the crash.",
+                "question": "Was ist mit vielen Menschen auf der Straße passiert?",
+                "answer": "den Absturz"
+            },
+            {
+                "sentence": "Many people in the street saw the crash.",
+                "question": "Was war der Absturz?",
+                "answer": "Viele Menschen auf der Straße"
+            },
+            {
+                "sentence": "Many people in the street saw the crash.",
+                "question": "Wo war der Absturz?",
+                "answer": "auf der Straße"
+            },
+            {
+                "sentence": "the crash was also recorded on movie by French moviemakers.",
+                "question": "Was wurde im Film von französischen Moviemakern aufgezeichnet?",
+                "answer": "der Absturz"
+            },
+            {
+                "sentence": "the crash was also recorded on movie by French moviemakers.",
+                "question": "Wer hat den Absturz aufgezeichnet?",
+                "answer": "von französischen Moviemakern"
+            },
+            {
+                "sentence": "the crash was also recorded on movie by French moviemakers.",
+                "question": "Wann wurde der Absturz aufgezeichnet?",
+                "answer": "auf Film"
+            },
+            {
+                "sentence": "The crash, and the fire that started right after the crash, made the North Tower collapse.",
+                "question": "Was ist mit dem Absturz passiert?",
+                "answer": "zum Zusammenbruch des"
+            },
+            {
+                "sentence": "The crash, and the fire that started right after the crash, made the North Tower collapse.",
+                "question": "Was ist mit dem Zusammenbruch des Nordturms passiert?",
+                "answer": "&quot; Der Absturz und das Feuer , das unmittelbar nach dem Absturz begann"
+            },
+            {
+                "sentence": "The crash, and the fire that started right after the crash, made the North Tower collapse.",
+                "question": "Was ist mit dem Zusammenbruch des Nordturms passiert?",
+                "answer": "Feuer"
+            },
+            {
+                "sentence": "The crash, and the fire that started right after the crash, made the North Tower collapse.",
+                "question": "Was ist mit dem Zusammenbruch des Nordturms passiert?",
+                "answer": "das unmittelbar nach dem"
+            },
+            {
+                "sentence": "The attack killed and hurt thousands of people.",
+                "question": "Wie viele Menschen wurden bei dem Anschlag getötet?",
+                "answer": "Tausende von Menschen"
+            },
+            {
+                "sentence": "The attack killed and hurt thousands of people.",
+                "question": "Was ist mit dem Angriff passiert?",
+                "answer": "Der Angriff"
+            },
+            {
+                "sentence": "The attack killed and hurt thousands of people.",
+                "question": "Was hat der Angriff bewirkt?",
+                "answer": "von Menschen"
+            }
+        ]
+    },
+    {
+        "name": "Evolution",
+        "paragraph": "Evolution is a scientific theory used by biologists. It explains how animals and plants changed over a long time, and how they have come to be the way they are. Earth is very old, about 4.5 billion years. By studying the layers of rock that make up Earth's crust, scientists can find out about its past. This kind of research is called historical geology. We know that living things have changed over time, because we can see their remains in the rocks. These remains are called 'fossils'. So we know that the animals and plants of today are different from those of long ago. And the further we go back, the more different the fossils are. How has this come about? Evolution has taken place. That evolution has taken place is a fact, because it is overwhelmingly supported by many lines of evidence. At the same time, evolutionary questions are still being actively researched by biologists. The theory of evolution is the basis of modern biology. Nothing in biology makes sense without it.",
+        "sqas": [
+            {
+                "sentence": "Evolution is a scientific theory used by biologists.",
+                "question": "Was ist Föderalismus?",
+                "answer": "eine von Biologen verwendete wissenschaftliche Theorie"
+            },
+            {
+                "sentence": "Evolution is a scientific theory used by biologists.",
+                "question": "Was ist die wissenschaftliche Theorie der Biologen?",
+                "answer": "Evolution"
+            },
+            {
+                "sentence": "Evolution is a scientific theory used by biologists.",
+                "question": "Wer soll die wissenschaftliche Theorie sein?",
+                "answer": "Biologen"
+            },
+            {
+                "sentence": "It explains how animals and plants changed over a long time, and how animals and plants have come to be the way animals and plants are.",
+                "question": "Was sind nun einige Tiere?",
+                "answer": "nun so sind wie Tiere und"
+            },
+            {
+                "sentence": "It explains how animals and plants changed over a long time, and how animals and plants have come to be the way animals and plants are.",
+                "question": "Welche Art von Vögeln hat sich über eine lange Zeit verändert?",
+                "answer": "sich Tiere und"
+            },
+            {
+                "sentence": "It explains how animals and plants changed over a long time, and how animals and plants have come to be the way animals and plants are.",
+                "question": "Welche Arten von Antibiotika haben sich durchgesetzt?",
+                "answer": "wie Tiere und"
+            },
+            {
+                "sentence": "It explains how animals and plants changed over a long time, and how animals and plants have come to be the way animals and plants are.",
+                "question": "Was sind nun einige Tiere?",
+                "answer": "wie Tiere und"
+            },
+            {
+                "sentence": "It explains how animals and plants changed over a long time, and how animals and plants have come to be the way animals and plants are.",
+                "question": "Wie lange dauert es für Tiere in Pflanzen?",
+                "answer": "Pflanzen über einen langen"
+            },
+            {
+                "sentence": "Earth is very old, about 4.5 billion years.",
+                "question": "\"Was ist der alte Name für 4,5 Milliarden ?\"",
+                "answer": "&quot; Die"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Welche Art von Erde kann man herausfinden?",
+                "answer": "Durch Untersuchung der Gesteinsschichten , aus denen die Erdkruste"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Was ist ein anderer Name für Rock?",
+                "answer": "denen die"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Was werden die Schichten der Erde genannt?",
+                "answer": "Gesteinsschichten"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Welche Art von Wissenschaftlern kann man über die Vergangenheit erfahren?",
+                "answer": "die"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Welche Art von Erde kann man herausfinden?",
+                "answer": "&quot; Durch die Untersuchung der Gesteinsschichten , aus denen die Erdkruste"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Welche Art von Musik ist aus der Erde?",
+                "answer": "Untersuchung der"
+            },
+            {
+                "sentence": "By studying the layers of rock that make up Earth's crust, scientists can find out about its past.",
+                "question": "Woraus ergeben sich die Gesteinsschichten?",
+                "answer": "Wissenschaftler sich Vergangenheit"
+            },
+            {
+                "sentence": "This kind of research is called historical geology.",
+                "question": "Was nennt man historische Geologie?",
+                "answer": "Diese Art Forschung"
+            },
+            {
+                "sentence": "This kind of research is called historical geology.",
+                "question": "Was nennt man historische Geologie?",
+                "answer": "Forschung"
+            },
+            {
+                "sentence": "We know that living things have changed over time, because We can see living things remains in the rocks.",
+                "question": "Was hat sich im Laufe der Zeit geändert?",
+                "answer": "die"
+            },
+            {
+                "sentence": "We know that living things have changed over time, because We can see living things remains in the rocks.",
+                "question": "Was sind die Felsen in einem Felsen genannt?",
+                "answer": "wie lebendige"
+            },
+            {
+                "sentence": "We know that living things have changed over time, because We can see living things remains in the rocks.",
+                "question": "Wie lange haben sich die Lebensbedingungen geändert?",
+                "answer": "im Laufe der"
+            },
+            {
+                "sentence": "We know that living things have changed over time, because We can see living things remains in the rocks.",
+                "question": "Was ist ein anderer Name für Lebewesen?",
+                "answer": "Dinge in den"
+            },
+            {
+                "sentence": "their remains in the rocks are called 'fossils'.",
+                "question": "Was ist ein weiterer Name für Fossilien?",
+                "answer": "ihre Überreste in den Felsen"
+            },
+            {
+                "sentence": "their remains in the rocks are called 'fossils'.",
+                "question": "Was ist ein weiterer Name für Fossilien?",
+                "answer": "in den Felsen"
+            },
+            {
+                "sentence": "So We know that the animals and plants of today are different from those of long ago.",
+                "question": "Was wissen einige Vögel?",
+                "answer": "dass sich die Tiere und Pflanzen von"
+            },
+            {
+                "sentence": "So We know that the animals and plants of today are different from those of long ago.",
+                "question": "Was tun einige Tiere und Pflanzen?",
+                "answer": "Pflanzen von"
+            },
+            {
+                "sentence": "So We know that the animals and plants of today are different from those of long ago.",
+                "question": "Wie viele Tiere sind in den Tieren?",
+                "answer": "von denen"
+            },
+            {
+                "sentence": "So We know that the animals and plants of today are different from those of long ago.",
+                "question": "Wie viele Tiere unterscheiden sich von heute?",
+                "answer": "denen"
+            },
+            {
+                "sentence": "And the further We go back, the more different the fossils are.",
+                "question": "Was ist der Unterschied?",
+                "answer": "sind die"
+            },
+            {
+                "sentence": "How has this come about?",
+                "question": "\"Was heißt es, wenn jemand Nein hat ?\"",
+                "answer": "das"
+            },
+            {
+                "sentence": "Evolution has taken place.",
+                "question": "Was ist ein weiterer Name für Evolution?",
+                "answer": "stattgefunden"
+            },
+            {
+                "sentence": "Evolution has taken place.",
+                "question": "Was ist geschehen?",
+                "answer": "Die Entwicklung"
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Was ist die Evolution der Arten?",
+                "answer": "hat"
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Was geschieht mit der Jagd?",
+                "answer": ""
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Was ist in vielerlei Hinsicht geschehen?",
+                "answer": "&quot; Die"
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Was ist der Begriff für Evolution?",
+                "answer": "die"
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Wie wird die Evolution unterstützt?",
+                "answer": "von vielen"
+            },
+            {
+                "sentence": "Evolution has taken place is a fact, because Evolution is overwhelmingly supported by many lines of evidence.",
+                "question": "Was ist ein weiterer Begriff für die Evolution?",
+                "answer": "vielen"
+            },
+            {
+                "sentence": "At the same time, evolutionary questions are still being actively researched by biologists.",
+                "question": "Was wird noch von Biologen erforscht?",
+                "answer": "evolutionäre Fragen"
+            },
+            {
+                "sentence": "At the same time, evolutionary questions are still being actively researched by biologists.",
+                "question": "Wer hat sich mit evolutionären Fragen beschäftigt?",
+                "answer": "von Biologen"
+            },
+            {
+                "sentence": "At the same time, evolutionary questions are still being actively researched by biologists.",
+                "question": "Wann werden Biologen von Biologen erforscht?",
+                "answer": "Gleichzeitig evolutionäre"
+            },
+            {
+                "sentence": "The theory of evolution is the basis of modern biology.",
+                "question": "Was ist die Theorie der Evolution?",
+                "answer": "die Grundlage der modernen Biologie"
+            },
+            {
+                "sentence": "The theory of evolution is the basis of modern biology.",
+                "question": "Was ist die Grundlage der modernen Biologie?",
+                "answer": "Die Evolutionstheorie"
+            },
+            {
+                "sentence": "The theory of evolution is the basis of modern biology.",
+                "question": "Was ist die Grundlage der modernen Biologie?",
+                "answer": "Evolutionstheorie"
+            },
+            {
+                "sentence": "The theory of evolution is the basis of modern biology.",
+                "question": "Was ist die Theorie der Evolution?",
+                "answer": "der modernen Biologie"
+            },
+            {
+                "sentence": "Nothing in biology makes sense without Nothing in biology.",
+                "question": "Was ist die Biologie einer Biologie genannt?",
+                "answer": "Sinn"
+            },
+            {
+                "sentence": "Nothing in biology makes sense without Nothing in biology.",
+                "question": "Was macht Sinn ohne Biologie?",
+                "answer": "Nichts in der Biologie"
+            },
+            {
+                "sentence": "Nothing in biology makes sense without Nothing in biology.",
+                "question": "Wo ist Sinn ohne Biologie?",
+                "answer": "in der Biologie"
+            },
+            {
+                "sentence": "Nothing in biology makes sense without Nothing in biology.",
+                "question": "Was hält Whitehead für die Biologie für sinnvoll?",
+                "answer": "ohne nichts in der Biologie"
+            },
+            {
+                "sentence": "Nothing in biology makes sense without Nothing in biology.",
+                "question": "\"Was ist der Name des Gefühls, das Sinn ?\"",
+                "answer": "in der Biologie"
+            }
+        ]
+    }
+]
