@@ -13,7 +13,7 @@ def write_to_file(data):
     
 def main():
     print_stats = True
-    do_eval = False
+    do_eval = True
 
     paragraphs = load_data()
 
